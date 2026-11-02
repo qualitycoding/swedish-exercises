@@ -20,7 +20,7 @@ jobs:
           node-version: "22"
       - name: Install Playwright 1.63.0 and Chromium
         run: |
-          npm install --no-audit --no-fund
+          npm ci --no-audit --no-fund
           npx playwright install --with-deps chromium
       - name: Validate exercise data
         run: node tools/validate.mjs

@@ -49,7 +49,7 @@ Listening scripts are written for the exercise. Nothing is copied from the sourc
 No build step: plain HTML, CSS and ES modules, served as-is by GitHub Pages (branch `main`, folder `/`).
 
 ```sh
-npm install                 # Playwright 1.63.0 for the browser tests
+npm ci                      # Playwright 1.63.0 for the browser tests
 npx playwright install chromium
 npm test                    # validate data + unit tests + end-to-end tests in headless Chromium
 npm run serve               # local server; open the printed URL
