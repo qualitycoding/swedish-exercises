@@ -1,0 +1,10 @@
+{
+  "themes": [
+    "themes/regeringen.json",
+    "themes/elpriset.json",
+    "themes/avtalsrorelsen.json",
+    "themes/almgren.json",
+    "themes/nya-regler.json",
+    "themes/november.json"
+  ]
+}

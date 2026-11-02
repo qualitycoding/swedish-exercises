@@ -1,0 +1,497 @@
+{
+  "id": "regeringen",
+  "title": "Regeringsbildningen efter valet",
+  "short": "Regeringen",
+  "dateLabel": "2 november 2026",
+  "level": "B1–B2",
+  "summary": "Sju veckor efter valet har Sverige fortfarande ingen ny regering. Nu ska riksdagen rösta om Centerpartiets ledare.",
+  "sources": [
+    {
+      "title": "SVT: Valmyndigheten har fastställt resultatet",
+      "url": "https://www.svt.se/nyheter/inrikes/senaste-nytt-om-val-2026"
+    },
+    {
+      "title": "Sveriges Radio: Regeringsbildningen efter valet 2026",
+      "url": "https://www.sverigesradio.se/artikel/regeringsbildningen-efter-valet-2026"
+    },
+    {
+      "title": "Valgrund: Regeringsbildning 2026",
+      "url": "https://valgrund.se/regeringsbildning"
+    },
+    {
+      "title": "Wikipedia: Riksdagsvalet i Sverige 2026",
+      "url": "https://sv.wikipedia.org/wiki/Riksdagsvalet_i_Sverige_2026"
+    }
+  ],
+  "exercises": {
+    "lasa": {
+      "title": "Ny omröstning om statsminister på tisdag",
+      "intro": "Läs texten. Tryck på de understrukna orden för förklaringar. Svara sedan på frågorna.",
+      "text": [
+        "Det har gått sju veckor sedan [[riksdagsvalet|valet till Sveriges parlament, riksdagen]] den 13 september, men Sverige har fortfarande ingen ny regering. Ulf Kristersson (M) leder en [[övergångsregering|en regering som bara sköter det löpande arbetet tills en ny regering är på plats]] sedan han begärde att få avgå den 17 september.",
+        "Valresultatet gjorde läget krångligt. Socialdemokraterna blev största parti med 28 procent av rösterna. S, V, MP och C fick tillsammans 176 av riksdagens 349 [[mandat|platser i riksdagen]], medan M, SD, KD och L fick 173. Men partierna på samma sida är inte överens om vem som ska regera.",
+        "Den 15 oktober röstade riksdagen om Magdalena Andersson (S) som statsminister för en regering med bara Socialdemokraterna. Förslaget föll: 248 ledamöter röstade nej. I Sverige räcker det att en majoritet, alltså minst 175 ledamöter, röstar nej för att ett förslag ska [[falla|inte gå igenom]].",
+        "Nu är det Centerpartiets ledare Elisabeth Thand Ringqvists tur. På tisdag den 3 november prövas hon som statsminister för en regering med C, S, KD, MP och L. Om hon inte får stöd går [[sonderingsuppdraget|uppdraget att undersöka vilken regering som är möjlig]] till Ulf Kristersson, som då får en vecka på sig. Om riksdagen säger nej fyra gånger måste det bli [[extraval|ett nytt val mellan de vanliga valen]].",
+        "Så kan det låta i fikarummet (påhittat exempel): – [[Hänger du med|förstår du, följer du|vardagligt]] i det här? – Nej, det är [[sjukt|väldigt, jättemycket|slang]] [[rörigt|krångligt, oordnat|vardagligt]]. Jag är rätt [[less|trött på något, irriterad|vardagligt]] på allt [[tjafs|onödigt bråk, gnäll|vardagligt]]. – Samma här. Men det är väl så demokrati funkar när ingen får egen majoritet."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Vem leder Sverige just nu?",
+          "options": [
+            "Magdalena Andersson i en ny regering",
+            "Ulf Kristersson i en övergångsregering",
+            "Elisabeth Thand Ringqvist",
+            "Talmannen"
+          ],
+          "answer": 1,
+          "explain": "Kristersson leder en övergångsregering sedan den 17 september."
+        },
+        {
+          "type": "mc",
+          "q": "Hur många mandat fick S, V, MP och C tillsammans?",
+          "options": [
+            "173",
+            "175",
+            "176",
+            "349"
+          ],
+          "answer": 2,
+          "explain": "De fick 176 av 349 mandat."
+        },
+        {
+          "type": "mc",
+          "q": "Vad hände med förslaget om Magdalena Andersson?",
+          "options": [
+            "Det gick igenom med knapp marginal",
+            "Det föll eftersom 248 ledamöter röstade nej",
+            "Det drogs tillbaka före omröstningen",
+            "Omröstningen sköts upp"
+          ],
+          "answer": 1,
+          "explain": "248 röstade nej, och då föll förslaget."
+        },
+        {
+          "type": "mc",
+          "q": "Vad händer om riksdagen säger nej till Thand Ringqvist?",
+          "options": [
+            "Det blir extraval direkt",
+            "Andersson prövas igen samma dag",
+            "Kristersson får sonderingsuppdraget i en vecka",
+            "Kungen väljer statsminister"
+          ],
+          "answer": 2,
+          "explain": "Då går sonderingsuppdraget till Ulf Kristersson, som får en vecka på sig."
+        },
+        {
+          "type": "tf",
+          "q": "Socialdemokraterna blev största parti i valet.",
+          "answer": true,
+          "explain": "S fick 28 procent av rösterna."
+        },
+        {
+          "type": "tf",
+          "q": "För att ett förslag om statsminister ska falla måste minst 175 ledamöter rösta nej.",
+          "answer": true,
+          "explain": "Det räcker att en majoritet röstar nej."
+        },
+        {
+          "type": "tf",
+          "q": "Thand Ringqvist vill bilda en regering med bara Centerpartiet.",
+          "answer": false,
+          "explain": "Hennes förslag är en regering med C, S, KD, MP och L."
+        },
+        {
+          "type": "mc",
+          "q": "I samtalet i fikarummet: vad betyder ”jag är less”?",
+          "options": [
+            "Jag är glad",
+            "Jag är trött på det",
+            "Jag är sjuk",
+            "Jag förstår inte"
+          ],
+          "answer": 1,
+          "explain": "”Less” är vardagligt och betyder trött på något."
+        },
+        {
+          "type": "mc",
+          "q": "”Sjukt rörigt” är slang. Vilket alternativ betyder ungefär samma sak?",
+          "options": [
+            "lite tråkigt",
+            "väldigt krångligt",
+            "ganska farligt",
+            "helt normalt"
+          ],
+          "answer": 1,
+          "explain": "”Sjukt” används i slang som förstärkning: väldigt."
+        },
+        {
+          "type": "mc",
+          "q": "Vad är ett extraval?",
+          "options": [
+            "Ett val till kommunen",
+            "Ett nytt riksdagsval mellan de vanliga valen",
+            "En omröstning inom ett parti",
+            "En opinionsmätning"
+          ],
+          "answer": 1,
+          "explain": "Ett extraval är ett nytt val utanför den vanliga valcykeln."
+        }
+      ]
+    },
+    "lyssna": {
+      "title": "Så går en statsministeromröstning till",
+      "intro": "Lyssna på inslaget. Du kan spela upp det flera gånger och en del i taget. Inslaget är skrivet för övningen och läses upp av webbläsarens röst.",
+      "vocab": [
+        "[[talmannen|riksdagens ordförande, som leder regeringsbildningen]]",
+        "[[ledamot|en person som sitter i riksdagen]]",
+        "[[avstå|inte rösta ja eller nej]]"
+      ],
+      "script": [
+        "Hej och välkommen till Ekonomi och politik. I dag förklarar vi hur det går till när Sverige får en ny statsminister.",
+        "Efter ett val pratar talmannen med alla partier. Sedan föreslår talmannen en person som statsminister, och riksdagen röstar. Det speciella i Sverige är att man inte behöver få en majoritet som röstar ja. Det viktiga är att det inte finns en majoritet som röstar nej.",
+        "Riksdagen har trehundrafyrtionio ledamöter. Om minst hundrasjuttiofem röstar nej faller förslaget. Den som avstår räknas alltså inte som ett nej. Därför kan en regering ibland bildas även om många ledamöter är kritiska.",
+        "Om riksdagen säger nej fyra gånger i rad måste det bli extraval inom tre månader. Det har aldrig hänt i Sverige, men just nu pratar många om risken.",
+        "På tisdag klockan ett prövas Centerpartiets ledare Elisabeth Thand Ringqvist. Vi följer omröstningen direkt här i radion."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Vem föreslår en ny statsminister?",
+          "options": [
+            "Kungen",
+            "Talmannen",
+            "Det största partiet",
+            "Regeringen"
+          ],
+          "answer": 1,
+          "explain": "Talmannen föreslår en statsministerkandidat."
+        },
+        {
+          "type": "tf",
+          "q": "I Sverige måste minst 175 ledamöter rösta ja för att en statsminister ska godkännas.",
+          "answer": false,
+          "explain": "Det viktiga är att inte en majoritet röstar nej."
+        },
+        {
+          "type": "mc",
+          "q": "Hur många ledamöter har riksdagen?",
+          "options": [
+            "175",
+            "300",
+            "349",
+            "394"
+          ],
+          "answer": 2,
+          "explain": "Riksdagen har 349 ledamöter."
+        },
+        {
+          "type": "tf",
+          "q": "Den som avstår räknas som ett nej.",
+          "answer": false,
+          "explain": "Att avstå räknas inte som nej."
+        },
+        {
+          "type": "mc",
+          "q": "Vad händer efter fyra nej i rad?",
+          "options": [
+            "Talmannen avgår",
+            "Extraval inom tre månader",
+            "Den gamla regeringen fortsätter i fyra år",
+            "Kungen bestämmer"
+          ],
+          "answer": 1,
+          "explain": "Efter fyra nej måste det bli extraval inom tre månader."
+        },
+        {
+          "type": "tf",
+          "q": "Enligt inslaget har Sverige haft extraval efter fyra nej flera gånger.",
+          "answer": false,
+          "explain": "Det har aldrig hänt."
+        },
+        {
+          "type": "mc",
+          "q": "När är omröstningen om Thand Ringqvist?",
+          "options": [
+            "På måndag klockan tolv",
+            "På tisdag klockan ett",
+            "På onsdag klockan tre",
+            "På fredag klockan nio"
+          ],
+          "answer": 1,
+          "explain": "Tisdag klockan ett (13.00)."
+        },
+        {
+          "type": "mc",
+          "q": "Vad betyder ordet ”avstå” i inslaget?",
+          "options": [
+            "Rösta nej",
+            "Inte rösta ja eller nej",
+            "Lämna riksdagen",
+            "Rösta två gånger"
+          ],
+          "answer": 1,
+          "explain": "Att avstå är att varken rösta ja eller nej."
+        },
+        {
+          "type": "dictation",
+          "text": "Talmannen pratar med alla partier."
+        },
+        {
+          "type": "dictation",
+          "text": "Vi följer omröstningen direkt i radion."
+        }
+      ]
+    },
+    "skriva": {
+      "title": "Skriv om regeringsfrågan",
+      "intro": "Böj orden, bygg meningar med rätt ordföljd och översätt. Tänk på att verbet står på andra plats i svenska huvudsatser (V2).",
+      "tasks": [
+        {
+          "type": "gap",
+          "q": "Riksdagen ___ (rösta) nej till förslaget i oktober.",
+          "hint": "Preteritum (dåtid).",
+          "accept": [
+            "röstade"
+          ],
+          "explain": "rösta – röstade – har röstat"
+        },
+        {
+          "type": "gap",
+          "q": "Kristersson har ___ (begära) att få avgå.",
+          "hint": "Supinum (efter har).",
+          "accept": [
+            "begärt"
+          ],
+          "explain": "begära – begärde – har begärt"
+        },
+        {
+          "type": "gap",
+          "q": "Det blev ett väldigt ___ (krånglig) läge efter valet.",
+          "hint": "Adjektivet efter ”ett”.",
+          "accept": [
+            "krångligt"
+          ],
+          "explain": "ett krångligt läge (t-form för ett-ord)"
+        },
+        {
+          "type": "gap",
+          "q": "Hon ___ (pröva) som statsminister på tisdag.",
+          "hint": "Passiv form i presens (-s).",
+          "accept": [
+            "prövas"
+          ],
+          "explain": "prövas = passiv presens"
+        },
+        {
+          "type": "order",
+          "en": "On Tuesday the Riksdag votes again.",
+          "accept": [
+            "På tisdag röstar riksdagen igen."
+          ],
+          "explain": "Tidsuttryck först → verbet på plats två (V2)."
+        },
+        {
+          "type": "order",
+          "en": "No party got its own majority.",
+          "accept": [
+            "Inget parti fick egen majoritet.",
+            "Inget parti fick en egen majoritet."
+          ],
+          "explain": ""
+        },
+        {
+          "type": "order",
+          "en": "Many people think that it is messy.",
+          "accept": [
+            "Många tycker att det är rörigt."
+          ],
+          "explain": "I bisatsen (att det är …) står subjektet före verbet."
+        },
+        {
+          "type": "translate",
+          "en": "Sweden still has no new government.",
+          "keywords": [
+            [
+              "sverige"
+            ],
+            [
+              "fortfarande",
+              "än"
+            ],
+            [
+              "ingen",
+              "inte någon",
+              "inte en"
+            ],
+            [
+              "ny"
+            ],
+            [
+              "regering"
+            ]
+          ],
+          "model": "Sverige har fortfarande ingen ny regering."
+        },
+        {
+          "type": "translate",
+          "en": "The proposal fell because 248 members voted no.",
+          "keywords": [
+            [
+              "förslag"
+            ],
+            [
+              "föll"
+            ],
+            [
+              "eftersom",
+              "för att",
+              "då"
+            ],
+            [
+              "248",
+              "tvåhundrafyrtioåtta"
+            ],
+            [
+              "röstade"
+            ],
+            [
+              "nej"
+            ]
+          ],
+          "model": "Förslaget föll eftersom 248 ledamöter röstade nej."
+        },
+        {
+          "type": "translate",
+          "en": "If the Riksdag says no four times, there will be a snap election.",
+          "keywords": [
+            [
+              "om"
+            ],
+            [
+              "riksdag"
+            ],
+            [
+              "nej"
+            ],
+            [
+              "fyra"
+            ],
+            [
+              "extraval",
+              "extra val"
+            ]
+          ],
+          "model": "Om riksdagen säger nej fyra gånger blir det extraval."
+        }
+      ],
+      "free": {
+        "prompt": "Skriv ett kort mejl till en svensk vän (50–80 ord). Berätta vad du har förstått om regeringsfrågan och vad du tycker om att det tar tid.",
+        "words": "50–80",
+        "checklist": [
+          "Börja med en hälsning (Hej …!).",
+          "Använd minst ett tidsuttryck först i en mening, t.ex. ”I oktober …” – kolla V2!",
+          "Använd ett ord med etikett, t.ex. [[rörigt|krångligt|vardagligt]] – men bara om tonen är informell.",
+          "Avsluta med en fråga till vännen."
+        ],
+        "model": "Hej Elin! Jag försöker hänga med i regeringsfrågan, men det är ganska rörigt. I oktober röstade riksdagen nej till Magdalena Andersson, och på tisdag prövas Elisabeth Thand Ringqvist. Jag tycker att det är spännande men också lite jobbigt att det tar så lång tid. Samtidigt är det väl bra att partierna försöker hitta en lösning i stället för att gå till extraval. Vad tror du händer? Kram, Sam"
+      }
+    },
+    "tala": {
+      "title": "Prata om politiken",
+      "intro": "Läs meningarna högt och svara på frågorna med hela meningar.",
+      "tasks": [
+        {
+          "type": "read",
+          "text": "Sverige har fortfarande ingen ny regering."
+        },
+        {
+          "type": "read",
+          "text": "Talmannen föreslår en ny statsminister."
+        },
+        {
+          "type": "read",
+          "text": "Riksdagen röstade nej i oktober."
+        },
+        {
+          "type": "read",
+          "text": "Nu är det Centerpartiets tur."
+        },
+        {
+          "type": "read",
+          "text": "Om ingen får stöd blir det extraval."
+        },
+        {
+          "type": "read",
+          "text": "Det är sjukt rörigt just nu."
+        },
+        {
+          "type": "respond",
+          "q": "Vem leder övergångsregeringen?",
+          "hint": "Svara med namnet och verbet ”leder”.",
+          "keywords": [
+            [
+              "kristersson"
+            ],
+            [
+              "leder",
+              "ledde"
+            ]
+          ],
+          "model": "Ulf Kristersson leder övergångsregeringen."
+        },
+        {
+          "type": "respond",
+          "q": "Vilket parti blev störst i valet?",
+          "hint": "Använd ”blev störst”.",
+          "keywords": [
+            [
+              "socialdemokrat",
+              "sossarna",
+              "sossar"
+            ],
+            [
+              "störst",
+              "största"
+            ]
+          ],
+          "model": "Socialdemokraterna blev störst."
+        },
+        {
+          "type": "respond",
+          "q": "Vad händer på tisdag?",
+          "hint": "Nämn omröstningen eller Thand Ringqvist.",
+          "keywords": [
+            [
+              "tisdag"
+            ],
+            [
+              "röst",
+              "omröstning",
+              "prövas",
+              "voterar"
+            ]
+          ],
+          "model": "På tisdag röstar riksdagen om Elisabeth Thand Ringqvist."
+        },
+        {
+          "type": "respond",
+          "q": "Tycker du att det är rörigt? Varför?",
+          "hint": "Börja med ”Jag tycker att …” och använd ”eftersom”.",
+          "keywords": [
+            [
+              "jag tycker",
+              "tycker"
+            ],
+            [
+              "eftersom",
+              "för att",
+              "därför"
+            ]
+          ],
+          "model": "Jag tycker att det är rörigt eftersom partierna inte är överens."
+        }
+      ]
+    }
+  }
+}

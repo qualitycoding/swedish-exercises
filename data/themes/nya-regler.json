@@ -1,0 +1,471 @@
+{
+  "id": "nya-regler",
+  "title": "Nya regler från 1 november",
+  "short": "Nya regler",
+  "dateLabel": "2 november 2026",
+  "level": "B1",
+  "summary": "Sjukanmälan, paket från andra sidan jorden och två vanliga sjukdomar – det här ändrades den 1 november.",
+  "sources": [
+    {
+      "title": "Nyheter24: Alla nya regler och ändringar 1 november 2026",
+      "url": "https://nyheter24.se/nyheter/inrikes/1525709-alla-nya-regler-och-andringar-1-november-2026"
+    },
+    {
+      "title": "Tullverket",
+      "url": "https://www.tullverket.se/"
+    },
+    {
+      "title": "Försäkringskassan",
+      "url": "https://www.forsakringskassan.se/"
+    },
+    {
+      "title": "Folkhälsomyndigheten",
+      "url": "https://www.folkhalsomyndigheten.se/"
+    }
+  ],
+  "exercises": {
+    "lasa": {
+      "title": "Det här är nytt i november",
+      "intro": "Läs texten. Tryck på de understrukna orden för förklaringar. Svara sedan på frågorna.",
+      "text": [
+        "Den 1 november började flera nya regler gälla i Sverige. Några märks knappt, andra påverkar många människors vardag.",
+        "Vattkoppor och RS-virusinfektion blev [[anmälningspliktiga|läkare måste rapportera fallen till myndigheterna]]. Båda är vanliga sjukdomar hos barn. När fallen rapporteras får myndigheterna en bättre bild av hur sjukdomarna sprids i samhället. Vattkoppor ger kliande blåsor över kroppen, och RS-virus kan ge svåra andningsbesvär hos små barn.",
+        "Den som [[näthandlar|köper saker på internet]] från länder utanför EU kan också märka en förändring. För varor som säljs på distans och är värda högst 150 euro blir det obligatoriskt att ange en [[produktbeteckning|en kort beskrivning av vad varan är]] i [[tulldeklarationen|uppgifterna till Tullverket om en vara som förs in i landet]], enligt Tullverket. Det är oftast säljaren eller fraktbolaget som sköter deklarationen.",
+        "En tredje ändring gäller arbetsgivare. De kan inte längre använda Försäkringskassans tjänst för sjukanmälan utan att logga in. Det påverkar inte hur anställda själva sjukanmäler sig till sin chef. Ändringarna är små var för sig, men de visar hur mycket av vardagen som styrs av regler. Många nya lagar börjar gälla den 1 januari eller den 1 juli, men ändringar kan komma vilken månad som helst.",
+        "Så kan det låta i fikarummet (påhittat exempel): – Hur är läget? Du ser [[krasslig|lite sjuk|vardagligt]] ut. – Ungen har vattkoppor, så jag har [[vabbat|varit hemma för att vårda sjukt barn|vardagligt]] hela veckan. – Usch. [[Krya på er|bli friska snart|vardagligt]]! – Tack. Och mitt paket från Kina fastnade i tullen. Allt är bara [[skit|dåligt (grovt ord)|slang]] just nu."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Vilka sjukdomar blev anmälningspliktiga?",
+          "options": [
+            "Influensa och covid",
+            "Vattkoppor och RS-virusinfektion",
+            "Mässling och påssjuka",
+            "Förkylning och halsfluss"
+          ],
+          "answer": 1,
+          "explain": "Vattkoppor och RS-virusinfektion."
+        },
+        {
+          "type": "mc",
+          "q": "Varför är det bra att fallen rapporteras?",
+          "options": [
+            "Då blir vården gratis",
+            "Myndigheterna får en bättre bild av spridningen",
+            "Då slipper barnen vaccin",
+            "Skolan stänger"
+          ],
+          "answer": 1,
+          "explain": "Myndigheterna får en bättre bild av hur sjukdomarna sprids."
+        },
+        {
+          "type": "mc",
+          "q": "Vilka varor gäller tullregeln?",
+          "options": [
+            "Alla varor från EU",
+            "Varor på distans från länder utanför EU, värda högst 150 euro",
+            "Bara bilar",
+            "Varor som är värda över 1000 euro"
+          ],
+          "answer": 1,
+          "explain": "Distansköpta varor från länder utanför EU, värda högst 150 euro."
+        },
+        {
+          "type": "mc",
+          "q": "Vem sköter oftast tulldeklarationen?",
+          "options": [
+            "Köparen",
+            "Säljaren eller fraktbolaget",
+            "Polisen",
+            "Kommunen"
+          ],
+          "answer": 1,
+          "explain": "Oftast säljaren eller fraktbolaget."
+        },
+        {
+          "type": "tf",
+          "q": "Vattkoppor är en ovanlig sjukdom hos barn.",
+          "answer": false,
+          "explain": "Båda sjukdomarna är vanliga hos barn."
+        },
+        {
+          "type": "tf",
+          "q": "Arbetsgivare kan inte längre sjukanmäla utan att logga in hos Försäkringskassan.",
+          "answer": true,
+          "explain": "Tjänsten utan inloggning försvann."
+        },
+        {
+          "type": "tf",
+          "q": "Anställda måste nu sjukanmäla sig direkt till Försäkringskassan i stället för till chefen.",
+          "answer": false,
+          "explain": "Det påverkar inte hur anställda sjukanmäler sig till sin chef."
+        },
+        {
+          "type": "mc",
+          "q": "Vad betyder ”att vabba”?",
+          "options": [
+            "Att vara sjuk själv",
+            "Att vara hemma och vårda sjukt barn",
+            "Att jobba hemifrån",
+            "Att resa bort"
+          ],
+          "answer": 1,
+          "explain": "Vabba kommer från VAB, vård av barn."
+        },
+        {
+          "type": "mc",
+          "q": "Vad säger man till någon som är sjuk?",
+          "options": [
+            "Krya på dig!",
+            "Grattis!",
+            "Lycka till i tullen!",
+            "Ha det så skönt!"
+          ],
+          "answer": 0,
+          "explain": "Krya på dig = bli frisk snart."
+        },
+        {
+          "type": "mc",
+          "q": "Ordet ”skit” i fikarummet är slang. Vilket råd stämmer?",
+          "options": [
+            "Det passar bra i ett jobbmejl",
+            "Det är grovt – undvik det i formella sammanhang",
+            "Det betyder ”bra”",
+            "Det är ett medicinskt ord"
+          ],
+          "answer": 1,
+          "explain": "”Skit” är ett grovt vardagsord, inte för formella texter."
+        }
+      ]
+    },
+    "lyssna": {
+      "title": "Telefonen: Lisa ringer jobbet",
+      "intro": "Lyssna på samtalet. Spela gärna upp en del i taget. Inslaget är skrivet för övningen och läses upp av webbläsarens röst.",
+      "vocab": [
+        "[[vab|vård av barn – ledighet för att ta hand om sjukt barn]]",
+        "[[ersättning|pengar man får, t.ex. från Försäkringskassan]]",
+        "[[vikarie|en person som ersätter någon]]"
+      ],
+      "script": [
+        "Hej, det är Lisa. Jag ringer för att säga att jag inte kommer in i dag. Min son har fått vattkoppor, så jag måste vabba.",
+        "Han har feber och prickar över hela kroppen, men han är ganska pigg. Förskolan säger att han får komma tillbaka när blåsorna har torkat in. Hans storasyster har redan haft vattkoppor, så hon går till skolan som vanligt.",
+        "Jag tror att jag blir borta resten av veckan. Kan någon ta mitt möte på torsdag? Annars kan vi flytta det till nästa måndag.",
+        "Jag anmäler vab till Försäkringskassan i kväll, så att jag får ersättning. Jag har datorn hemma och kan svara på mejl ibland, men inte jobba hela dagar.",
+        "Ring mig om det är något. Hej då!"
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Varför kommer Lisa inte till jobbet?",
+          "options": [
+            "Hon är sjuk själv",
+            "Hennes son har vattkoppor",
+            "Hon ska resa",
+            "Hon har semester"
+          ],
+          "answer": 1,
+          "explain": "Sonen har vattkoppor och hon vabbar."
+        },
+        {
+          "type": "tf",
+          "q": "Sonen är väldigt trött och ligger i sängen hela tiden.",
+          "answer": false,
+          "explain": "Han är ganska pigg."
+        },
+        {
+          "type": "mc",
+          "q": "När får sonen gå tillbaka till förskolan?",
+          "options": [
+            "I morgon",
+            "När blåsorna har torkat in",
+            "Efter en månad",
+            "När febern börjar"
+          ],
+          "answer": 1,
+          "explain": "När blåsorna har torkat in."
+        },
+        {
+          "type": "mc",
+          "q": "Hur länge tror Lisa att hon blir borta?",
+          "options": [
+            "En dag",
+            "Resten av veckan",
+            "Två veckor",
+            "En månad"
+          ],
+          "answer": 1,
+          "explain": "Resten av veckan."
+        },
+        {
+          "type": "mc",
+          "q": "Vad ska hända med mötet på torsdag?",
+          "options": [
+            "Det ställs in för alltid",
+            "Någon annan tar det, eller så flyttas det till måndag",
+            "Lisa går dit ändå",
+            "Det blir på lördag"
+          ],
+          "answer": 1,
+          "explain": "Någon kan ta det, annars flyttas det till nästa måndag."
+        },
+        {
+          "type": "tf",
+          "q": "Lisa ska anmäla vab till Försäkringskassan i kväll.",
+          "answer": true,
+          "explain": "Så att hon får ersättning."
+        },
+        {
+          "type": "tf",
+          "q": "Lisa lovar att jobba hela dagar hemifrån.",
+          "answer": false,
+          "explain": "Hon kan svara på mejl ibland, men inte jobba hela dagar."
+        },
+        {
+          "type": "mc",
+          "q": "Vad betyder ”ersättning” i samtalet?",
+          "options": [
+            "En ny anställd",
+            "Pengar man får",
+            "En medicin",
+            "En ursäkt"
+          ],
+          "answer": 1,
+          "explain": "Ersättning = pengar, här från Försäkringskassan."
+        },
+        {
+          "type": "dictation",
+          "text": "Min son har fått vattkoppor."
+        },
+        {
+          "type": "dictation",
+          "text": "Kan någon ta mitt möte på torsdag?"
+        }
+      ]
+    },
+    "skriva": {
+      "title": "Skriv om regler och vardag",
+      "intro": "Böj orden, bygg meningar och översätt.",
+      "tasks": [
+        {
+          "type": "gap",
+          "q": "Flera nya regler ___ (börja) gälla den 1 november.",
+          "hint": "Preteritum.",
+          "accept": [
+            "började"
+          ],
+          "explain": "börja – började – har börjat"
+        },
+        {
+          "type": "gap",
+          "q": "Fallen måste ___ (rapportera) till myndigheterna.",
+          "hint": "Passiv infinitiv.",
+          "accept": [
+            "rapporteras"
+          ],
+          "explain": "rapportera → rapporteras"
+        },
+        {
+          "type": "gap",
+          "q": "Mitt paket har ___ (fastna) i tullen.",
+          "hint": "Supinum.",
+          "accept": [
+            "fastnat"
+          ],
+          "explain": "fastna – fastnade – har fastnat"
+        },
+        {
+          "type": "gap",
+          "q": "Vattkoppor är en ___ (vanlig) sjukdom hos barn.",
+          "hint": "Adjektiv efter ”en”.",
+          "accept": [
+            "vanlig"
+          ],
+          "explain": "en vanlig sjukdom"
+        },
+        {
+          "type": "order",
+          "en": "Today I have to stay home with my sick child.",
+          "accept": [
+            "I dag måste jag vabba."
+          ],
+          "explain": "Tidsuttryck först → verbet på plats två (måste jag)."
+        },
+        {
+          "type": "order",
+          "en": "The package got stuck in customs.",
+          "accept": [
+            "Paketet fastnade i tullen."
+          ],
+          "explain": ""
+        },
+        {
+          "type": "order",
+          "en": "I don't think it affects me.",
+          "accept": [
+            "Jag tror inte att det påverkar mig."
+          ],
+          "explain": "”Inte” efter verbet i huvudsatsen."
+        },
+        {
+          "type": "translate",
+          "en": "My son has chickenpox.",
+          "keywords": [
+            [
+              "min"
+            ],
+            [
+              "son"
+            ],
+            [
+              "har"
+            ],
+            [
+              "vattkoppor"
+            ]
+          ],
+          "model": "Min son har vattkoppor."
+        },
+        {
+          "type": "translate",
+          "en": "I am staying at home for the rest of the week.",
+          "keywords": [
+            [
+              "jag"
+            ],
+            [
+              "hemma"
+            ],
+            [
+              "resten"
+            ],
+            [
+              "vecka"
+            ]
+          ],
+          "model": "Jag stannar hemma resten av veckan."
+        },
+        {
+          "type": "translate",
+          "en": "Get well soon!",
+          "keywords": [
+            [
+              "krya",
+              "bli frisk"
+            ]
+          ],
+          "model": "Krya på dig!"
+        }
+      ],
+      "free": {
+        "prompt": "Skriv ett mejl till din chef (40–70 ord). Du måste vabba i två dagar. Föreslå vad som ska hända med ditt arbete.",
+        "words": "40–70",
+        "checklist": [
+          "Börja med ”Hej [namn]!” och avsluta med ”Vänliga hälsningar”.",
+          "Skriv vilka dagar du är borta.",
+          "Använd ”eftersom” för att förklara.",
+          "Ett mejl till chefen är halvformellt: [[vabba|vara hemma med sjukt barn|vardagligt]] är okej, men inte [[skit|dåligt, grovt|slang]]."
+        ],
+        "model": "Hej Anna! Jag måste tyvärr vabba i dag och i morgon eftersom min dotter har feber. Jag hinner inte göra klart rapporten till onsdag, men Johan vet var filerna ligger och kan ta mötet med kunden. Jag läser mejl ibland och är tillbaka på torsdag. Vänliga hälsningar, Sam"
+      }
+    },
+    "tala": {
+      "title": "Ring och sjukanmäl",
+      "intro": "Läs meningarna högt och svara på frågorna med hela meningar.",
+      "tasks": [
+        {
+          "type": "read",
+          "text": "Jag kommer inte in i dag."
+        },
+        {
+          "type": "read",
+          "text": "Min dotter har feber, så jag måste vabba."
+        },
+        {
+          "type": "read",
+          "text": "Kan vi flytta mötet till måndag?"
+        },
+        {
+          "type": "read",
+          "text": "Mitt paket fastnade i tullen."
+        },
+        {
+          "type": "read",
+          "text": "Du ser lite krasslig ut."
+        },
+        {
+          "type": "read",
+          "text": "Krya på dig!"
+        },
+        {
+          "type": "respond",
+          "q": "Vilka två sjukdomar blev anmälningspliktiga?",
+          "hint": "Nämn båda.",
+          "keywords": [
+            [
+              "vattkoppor"
+            ],
+            [
+              "rs"
+            ]
+          ],
+          "model": "Vattkoppor och RS-virus blev anmälningspliktiga."
+        },
+        {
+          "type": "respond",
+          "q": "Vad säger du när du ringer och sjukanmäler dig?",
+          "hint": "Börja med ”Hej, det är …”.",
+          "keywords": [
+            [
+              "hej"
+            ],
+            [
+              "sjuk",
+              "vabba",
+              "kommer inte",
+              "hemma",
+              "feber"
+            ]
+          ],
+          "model": "Hej, det är Sam. Jag är sjuk och kommer inte in i dag."
+        },
+        {
+          "type": "respond",
+          "q": "Vad betyder vabba?",
+          "hint": "Förklara: ”Det betyder att man …”.",
+          "keywords": [
+            [
+              "barn"
+            ],
+            [
+              "hemma",
+              "vårda",
+              "ta hand"
+            ]
+          ],
+          "model": "Det betyder att man är hemma och vårdar ett sjukt barn."
+        },
+        {
+          "type": "respond",
+          "q": "Brukar du handla på nätet?",
+          "hint": "Svara ”Ja, jag …” eller ”Nej, jag …”.",
+          "keywords": [
+            [
+              "ja",
+              "nej"
+            ],
+            [
+              "handla",
+              "handlar",
+              "näthandla",
+              "köper",
+              "beställer",
+              "shoppar"
+            ]
+          ],
+          "model": "Ja, jag handlar ofta kläder på nätet."
+        }
+      ]
+    }
+  }
+}

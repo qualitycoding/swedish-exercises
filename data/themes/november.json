@@ -1,0 +1,491 @@
+{
+  "id": "november",
+  "title": "November: mörker, slask och tv-soffan",
+  "short": "November",
+  "dateLabel": "2 november 2026",
+  "level": "B1",
+  "summary": "Mild start i norr, kyla i söder och kanske snö senare i månaden. Och på tv är Allt för Sverige tillbaka.",
+  "sources": [
+    {
+      "title": "Nyheter24 (Klart.se): Långtidsprognos för november 2026",
+      "url": "https://nyheter24.se/nyheter/inrikes/1524944-novembervadret-2026-da-kan-snon-komma-till-sodra-sverige"
+    },
+    {
+      "title": "Hurbra.se: Allt för Sverige 2 november 2026",
+      "url": "https://hurbra.se/allt-for-sverige-2-november-2026/"
+    }
+  ],
+  "exercises": {
+    "lasa": {
+      "title": "Så blir novembervädret – enligt långtidsprognosen",
+      "intro": "Läs texten. Tryck på de understrukna orden för förklaringar. Svara sedan på frågorna.",
+      "text": [
+        "November är för många den mörkaste och tråkigaste månaden. Men vädret kan bli väldigt olika i olika delar av landet, enligt en [[långtidsprognos|en väderprognos för flera veckor framåt]] från Klart.se.",
+        "I början av månaden väntas det bli ovanligt milt i norra Sverige, medan södra Sverige får en kallare start. Det ser också ut att bli ganska lite [[nederbörd|regn eller snö]] i stora delar av landet de första veckorna.",
+        "Från vecka 47, alltså den 16–22 november, finns det tecken på att [[lågtryck|ett vädersystem som ofta ger regn och blåst]] från Atlanten börjar röra sig längre norrut. Under vecka 48 kan det bli regn och periodvis hårdare vind. Då kan det också komma tillfälliga snöfall längre söderut. Men en långtidsprognos är osäker, och mycket beror på hur lågtrycken rör sig.",
+        "Den som hellre stannar inne har något att se fram emot. Den 2 november började en ny säsong av SVT:s Allt för Sverige, med Anders Lundin som programledare. Åtta svenskamerikaner börjar sin resa i Malmö för att lära känna landet som deras förfäder lämnade.",
+        "Så kan det låta i fikarummet (påhittat exempel): – Vad [[ruskigt|obehagligt, kallt och blött|vardagligt]] det är ute. Och [[mörkt som i en säck|kolsvart, väldigt mörkt|idiom]]. – Ja, jag ska bara [[softa|slappna av, ta det lugnt|slang]] i soffan i kväll och [[glo på|titta på (lite oartigt)|vardagligt]] tv. – [[Mysigt|trevligt och skönt|vardagligt]]! Men [[slasket|blöt, smältande snö|vardagligt]] kommer, det vet du."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Var väntas november börja ovanligt milt?",
+          "options": [
+            "I södra Sverige",
+            "I norra Sverige",
+            "I hela landet",
+            "Bara i Stockholm"
+          ],
+          "answer": 1,
+          "explain": "Ovanligt milt i norr, kallare i söder."
+        },
+        {
+          "type": "mc",
+          "q": "Hur mycket nederbörd väntas de första veckorna?",
+          "options": [
+            "Väldigt mycket",
+            "Ganska lite",
+            "Bara snö",
+            "Hagel varje dag"
+          ],
+          "answer": 1,
+          "explain": "Förhållandevis lite nederbörd."
+        },
+        {
+          "type": "mc",
+          "q": "Vilka datum är vecka 47?",
+          "options": [
+            "2–8 november",
+            "9–15 november",
+            "16–22 november",
+            "23–29 november"
+          ],
+          "answer": 2,
+          "explain": "16–22 november."
+        },
+        {
+          "type": "mc",
+          "q": "Vad kan hända under vecka 48?",
+          "options": [
+            "Värmebölja",
+            "Regn, hårdare vind och kanske snö längre söderut",
+            "Total torka",
+            "Midnattssol"
+          ],
+          "answer": 1,
+          "explain": "Regn, periodvis hårdare vind och tillfälliga snöfall."
+        },
+        {
+          "type": "tf",
+          "q": "Texten säger att långtidsprognoser är helt säkra.",
+          "answer": false,
+          "explain": "En långtidsprognos är osäker."
+        },
+        {
+          "type": "tf",
+          "q": "Lågtrycken kommer från Atlanten.",
+          "answer": true,
+          "explain": "Lågtryck från Atlanten."
+        },
+        {
+          "type": "tf",
+          "q": "Deltagarna i Allt för Sverige börjar sin resa i Göteborg.",
+          "answer": false,
+          "explain": "De börjar i Malmö."
+        },
+        {
+          "type": "mc",
+          "q": "Vad betyder slangordet ”softa”?",
+          "options": [
+            "Städa",
+            "Slappna av",
+            "Träna",
+            "Laga mat"
+          ],
+          "answer": 1,
+          "explain": "Softa = ta det lugnt (slang, från engelskans soft)."
+        },
+        {
+          "type": "mc",
+          "q": "”Mörkt som i en säck” betyder …",
+          "options": [
+            "att det är mycket mörkt",
+            "att man har en väska",
+            "att det är kallt",
+            "att det regnar"
+          ],
+          "answer": 0,
+          "explain": "Ett fast uttryck för kolsvart mörker."
+        },
+        {
+          "type": "mc",
+          "q": "Vad är ”slask”?",
+          "options": [
+            "Torr snö",
+            "Blöt, smältande snö",
+            "Is på sjön",
+            "Sol och värme"
+          ],
+          "answer": 1,
+          "explain": "Slask = blöt snö som smälter."
+        }
+      ]
+    },
+    "lyssna": {
+      "title": "Morgonradion: väder och trafik",
+      "intro": "Lyssna på morgonsändningen. Spela gärna upp en del i taget. Inslaget är skrivet för övningen och läses upp av webbläsarens röst.",
+      "vocab": [
+        "[[halka|när vägen är hal av is]]",
+        "[[dimma|moln nära marken, svårt att se]]",
+        "[[uppehåll|när det inte regnar]]"
+      ],
+      "script": [
+        "God morgon, klockan är sju och här kommer vädret.",
+        "I Skåne och längs västkusten blir det mulet med regn under eftermiddagen och upp till åtta grader. I Mälardalen börjar dagen med dimma, men den lättar framåt lunch. Det blir uppehåll och runt fem grader.",
+        "I Norrland är det ovanligt milt för årstiden, men i fjällen kan det snöa i kväll. Tänk på att det kan bli halka på vägarna när temperaturen sjunker under natten. Ute i skärgården blåser det upp under eftermiddagen, så ta det försiktigt om du ska ut med båten.",
+        "Och så trafiken. Det är köer på E4:an in mot Stockholm på grund av en olycka. Ingen ska ha skadats allvarligt, men räkna med förseningar på minst en halvtimme.",
+        "Det var allt för nu. Glöm inte reflexen när du går ut i mörkret!"
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Hur blir vädret i Skåne?",
+          "options": [
+            "Sol hela dagen",
+            "Mulet med regn på eftermiddagen",
+            "Snöstorm",
+            "Dimma hela dagen"
+          ],
+          "answer": 1,
+          "explain": "Mulet med regn under eftermiddagen."
+        },
+        {
+          "type": "mc",
+          "q": "Vad gäller i Mälardalen på morgonen?",
+          "options": [
+            "Dimma",
+            "Åska",
+            "Snö",
+            "Storm"
+          ],
+          "answer": 0,
+          "explain": "Dagen börjar med dimma."
+        },
+        {
+          "type": "tf",
+          "q": "Dimman i Mälardalen ligger kvar hela dagen.",
+          "answer": false,
+          "explain": "Den lättar framåt lunch."
+        },
+        {
+          "type": "mc",
+          "q": "Var kan det snöa i kväll?",
+          "options": [
+            "I Skåne",
+            "I fjällen",
+            "I Stockholm",
+            "Längs västkusten"
+          ],
+          "answer": 1,
+          "explain": "I fjällen."
+        },
+        {
+          "type": "mc",
+          "q": "Varför kan det bli halka?",
+          "options": [
+            "För att det blåser",
+            "För att temperaturen sjunker under natten",
+            "För att solen skiner",
+            "För att det är vägarbete"
+          ],
+          "answer": 1,
+          "explain": "När temperaturen sjunker under natten."
+        },
+        {
+          "type": "mc",
+          "q": "Varför är det köer på E4:an?",
+          "options": [
+            "Vägarbete",
+            "En olycka",
+            "Snö",
+            "En demonstration"
+          ],
+          "answer": 1,
+          "explain": "En olycka."
+        },
+        {
+          "type": "tf",
+          "q": "Enligt inslaget ska ingen ha skadats allvarligt.",
+          "answer": true,
+          "explain": "Ingen ska ha skadats allvarligt."
+        },
+        {
+          "type": "mc",
+          "q": "Vad ska man inte glömma när man går ut?",
+          "options": [
+            "Paraplyet",
+            "Reflexen",
+            "Mobilen",
+            "Mössan"
+          ],
+          "answer": 1,
+          "explain": "Reflexen – syns i mörkret!"
+        },
+        {
+          "type": "dictation",
+          "text": "Det kan bli halka på vägarna."
+        },
+        {
+          "type": "dictation",
+          "text": "Glöm inte reflexen när du går ut."
+        }
+      ]
+    },
+    "skriva": {
+      "title": "Skriv om november",
+      "intro": "Böj orden, bygg meningar och översätt.",
+      "tasks": [
+        {
+          "type": "gap",
+          "q": "November är årets ___ (mörk) månad.",
+          "hint": "Superlativ, bestämd form.",
+          "accept": [
+            "mörkaste"
+          ],
+          "explain": "mörk – mörkare – mörkast; årets mörkaste månad"
+        },
+        {
+          "type": "gap",
+          "q": "I går ___ (snöa) det i fjällen.",
+          "hint": "Preteritum.",
+          "accept": [
+            "snöade"
+          ],
+          "explain": "snöa – snöade – har snöat"
+        },
+        {
+          "type": "gap",
+          "q": "Det blir ___ (kall) i söder än i norr.",
+          "hint": "Komparativ.",
+          "accept": [
+            "kallare"
+          ],
+          "explain": "kall – kallare – kallast"
+        },
+        {
+          "type": "gap",
+          "q": "Jag har ___ (se) första avsnittet av Allt för Sverige.",
+          "hint": "Supinum av ett starkt verb.",
+          "accept": [
+            "sett"
+          ],
+          "explain": "se – såg – har sett"
+        },
+        {
+          "type": "order",
+          "en": "Tonight I'm going to chill on the sofa.",
+          "accept": [
+            "I kväll ska jag softa i soffan."
+          ],
+          "explain": "Tidsuttryck först → verbet på plats två."
+        },
+        {
+          "type": "order",
+          "en": "It is often windy in November.",
+          "accept": [
+            "Det blåser ofta i november."
+          ],
+          "explain": ""
+        },
+        {
+          "type": "order",
+          "en": "I don't like when it is dark.",
+          "accept": [
+            "Jag gillar inte när det är mörkt."
+          ],
+          "explain": "Bisatsen ”när det är mörkt” har rak ordföljd."
+        },
+        {
+          "type": "translate",
+          "en": "It is dark and cold outside.",
+          "keywords": [
+            [
+              "det"
+            ],
+            [
+              "mörkt"
+            ],
+            [
+              "kallt"
+            ],
+            [
+              "ute"
+            ]
+          ],
+          "model": "Det är mörkt och kallt ute."
+        },
+        {
+          "type": "translate",
+          "en": "It may snow later in the month.",
+          "keywords": [
+            [
+              "kan"
+            ],
+            [
+              "snöa"
+            ],
+            [
+              "senare"
+            ],
+            [
+              "månad"
+            ]
+          ],
+          "model": "Det kan snöa senare i månaden."
+        },
+        {
+          "type": "translate",
+          "en": "Don't forget your reflector!",
+          "keywords": [
+            [
+              "glöm"
+            ],
+            [
+              "inte"
+            ],
+            [
+              "reflex"
+            ]
+          ],
+          "model": "Glöm inte reflexen!"
+        }
+      ],
+      "free": {
+        "prompt": "Skriv en kort dagboksanteckning (50–80 ord) om en vanlig novemberdag. Vad gjorde du, hur var vädret och hur mådde du?",
+        "words": "50–80",
+        "checklist": [
+          "Skriv i preteritum: gick, var, såg, åt …",
+          "Använd minst två väderord (mulet, slask, blåsigt, dimma …).",
+          "En dagbok är privat – vardagliga ord som [[mysigt|trevligt|vardagligt]] och [[softa|ta det lugnt|slang]] passar fint.",
+          "Avsluta med en plan för i morgon."
+        ],
+        "model": "Måndag. Det var mulet och ruskigt hela dagen, och när jag cyklade hem från jobbet var det redan mörkt som i en säck. Slasket stänkte upp på byxorna. Hemma gjorde jag te och softade i soffan. Jag såg första avsnittet av Allt för Sverige – mysigt! I morgon ska jag gå ut på lunchen och få lite dagsljus."
+      }
+    },
+    "tala": {
+      "title": "Prata om vädret",
+      "intro": "Läs meningarna högt och svara på frågorna med hela meningar.",
+      "tasks": [
+        {
+          "type": "read",
+          "text": "Det är mörkt som i en säck."
+        },
+        {
+          "type": "read",
+          "text": "I norr börjar november ovanligt milt."
+        },
+        {
+          "type": "read",
+          "text": "Det kan komma snö längre söderut."
+        },
+        {
+          "type": "read",
+          "text": "Glöm inte reflexen!"
+        },
+        {
+          "type": "read",
+          "text": "Vad ruskigt det är ute i dag."
+        },
+        {
+          "type": "read",
+          "text": "I kväll ska jag softa i soffan."
+        },
+        {
+          "type": "respond",
+          "q": "Hur är vädret där du är i dag?",
+          "hint": "Använd ”Det är …” eller ”Det regnar/snöar/blåser”.",
+          "keywords": [
+            [
+              "det"
+            ],
+            [
+              "sol",
+              "regn",
+              "snö",
+              "blås",
+              "kallt",
+              "varmt",
+              "mulet",
+              "molnigt",
+              "fint",
+              "ruskigt",
+              "grått",
+              "mörkt",
+              "dimm",
+              "slask",
+              "kyligt",
+              "milt",
+              "skönt"
+            ]
+          ],
+          "model": "Det är mulet och ganska kallt."
+        },
+        {
+          "type": "respond",
+          "q": "Vad gör du en mörk novemberkväll?",
+          "hint": "Börja med ”Jag …”.",
+          "keywords": [
+            [
+              "jag"
+            ],
+            [
+              "tittar",
+              "läser",
+              "softar",
+              "myser",
+              "lagar",
+              "tränar",
+              "sover",
+              "ser",
+              "lyssnar",
+              "spelar",
+              "fikar",
+              "dricker",
+              "chillar",
+              "träffar",
+              "går"
+            ]
+          ],
+          "model": "Jag läser en bok och dricker te."
+        },
+        {
+          "type": "respond",
+          "q": "Var börjar svenskamerikanerna sin resa i Allt för Sverige?",
+          "hint": "En stad i södra Sverige.",
+          "keywords": [
+            [
+              "malmö"
+            ]
+          ],
+          "model": "De börjar sin resa i Malmö."
+        },
+        {
+          "type": "respond",
+          "q": "Vad betyder slask?",
+          "hint": "Förklara med ”Det är …”.",
+          "keywords": [
+            [
+              "snö"
+            ],
+            [
+              "blöt",
+              "smält",
+              "våt"
+            ]
+          ],
+          "model": "Det är blöt snö som smälter."
+        }
+      ]
+    }
+  }
+}

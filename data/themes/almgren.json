@@ -1,0 +1,486 @@
+{
+  "id": "almgren",
+  "title": "Almgren vann New York Marathon i sin debut",
+  "short": "Maraton",
+  "dateLabel": "2 november 2026",
+  "level": "B1",
+  "summary": "Andreas Almgren sprang sitt första maratonlopp någonsin – och vann i New York.",
+  "sources": [
+    {
+      "title": "SVT Sport: Andreas Almgren vinner New York Marathon 2026",
+      "url": "https://www.svt.se/sport/friidrott/andreas-almgren-vinner-new-york-marathon-2026"
+    },
+    {
+      "title": "NPR: Sweden's Almgren and Kenya's Chepkirui win",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win"
+    },
+    {
+      "title": "LetsRun: New York City Marathon men's results",
+      "url": "https://www.letsrun.com/news/2026/11/new-york-city-marathon-mens-results-andreas-almgren-wins-marathon-debut/"
+    },
+    {
+      "title": "Marathon Handbook: Almgren elite field profile",
+      "url": "https://marathonhandbook.com/nyc-marathon-elite-field-andreas-almgren/"
+    }
+  ],
+  "exercises": {
+    "lasa": {
+      "title": "Svensk seger på New Yorks gator",
+      "intro": "Läs texten. Tryck på de understrukna orden för förklaringar. Svara sedan på frågorna.",
+      "text": [
+        "Andreas Almgren hade aldrig sprungit ett maratonlopp förut. På söndagen vann han New York Marathon, ett av världens största lopp. Hans tid blev 2.06.01, vilket bara är fyra sekunder från Suldan Hassans svenska rekord.",
+        "Länge sprang en stor klunga tillsammans. Med några kilometer kvar var det bara tre löpare i täten: Almgren, italienaren Yemaneberhan Crippa och förra årets vinnare Benson Kipruto från Kenya. Med drygt en kilometer kvar satte Almgren in ett avgörande [[ryck|en plötslig ökning av farten]]. Han vann till slut med 13 sekunder före Crippa.",
+        "Almgren, som är 31 år, har haft ett fantastiskt år. I september blev han världsmästare på halvmaraton i Köpenhamn på det europeiska rekordet 58.06. Han är också europamästare på 10 000 meter. Han började sin karriär som 800-meterslöpare, en mycket kortare distans.",
+        "Enligt amerikanska medier bestämde han sig redan för ett år sedan, när han var i New York och tittade på loppet, att det var där han skulle göra sin debut. Inför loppet sa han att det inte var orimliga odds att han skulle vinna. Han fick rätt.",
+        "Så kan det låta i fikarummet (påhittat exempel): – Såg du [[maran|maratonloppet|vardagligt]] i går? – Ja! Almgren var helt [[asgrym|extremt bra|slang]]. Det där rycket på slutet! – Jag blev så [[taggad|peppad, ivrig att göra något|slang]] att jag ska börja springa. – Du? Du tar ju hissen till andra våningen. – [[Lugn i stormen|ta det lugnt, ingen panik|idiom]], jag börjar med fem kilometer."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Hur många maratonlopp hade Almgren sprungit före New York?",
+          "options": [
+            "Inget",
+            "Ett",
+            "Tre",
+            "Tio"
+          ],
+          "answer": 0,
+          "explain": "Det var hans första maraton."
+        },
+        {
+          "type": "mc",
+          "q": "Vilken tid fick Almgren?",
+          "options": [
+            "2.02.16",
+            "2.06.01",
+            "2.06.14",
+            "58.06"
+          ],
+          "answer": 1,
+          "explain": "2.06.01."
+        },
+        {
+          "type": "mc",
+          "q": "Vem kom tvåa?",
+          "options": [
+            "Benson Kipruto",
+            "Suldan Hassan",
+            "Yemaneberhan Crippa",
+            "Ingen svensk"
+          ],
+          "answer": 2,
+          "explain": "Italienaren Crippa, 13 sekunder efter."
+        },
+        {
+          "type": "mc",
+          "q": "När satte Almgren in sitt avgörande ryck?",
+          "options": [
+            "Direkt efter starten",
+            "Vid halvvägs",
+            "Med drygt en kilometer kvar",
+            "På upploppets sista meter"
+          ],
+          "answer": 2,
+          "explain": "Med drygt en kilometer kvar."
+        },
+        {
+          "type": "tf",
+          "q": "Almgren slog det svenska rekordet på maraton.",
+          "answer": false,
+          "explain": "Han var fyra sekunder från rekordet."
+        },
+        {
+          "type": "tf",
+          "q": "Almgren blev världsmästare på halvmaraton i Köpenhamn.",
+          "answer": true,
+          "explain": "I september, på 58.06."
+        },
+        {
+          "type": "tf",
+          "q": "Almgren började sin karriär på 800 meter.",
+          "answer": true,
+          "explain": "Han var 800-meterslöpare från början."
+        },
+        {
+          "type": "mc",
+          "q": "Vad betyder slangordet ”asgrym”?",
+          "options": [
+            "Lite trött",
+            "Extremt bra",
+            "Väldigt arg",
+            "Ganska långsam"
+          ],
+          "answer": 1,
+          "explain": "”As-” förstärker i slang: asgrym = extremt bra."
+        },
+        {
+          "type": "mc",
+          "q": "”Jag blev så taggad.” Hur kände sig personen?",
+          "options": [
+            "Rädd",
+            "Peppad och ivrig",
+            "Uttråkad",
+            "Skadad"
+          ],
+          "answer": 1,
+          "explain": "Taggad = peppad (slang)."
+        },
+        {
+          "type": "mc",
+          "q": "Vad är ”maran”?",
+          "options": [
+            "Ett djur",
+            "Maratonloppet",
+            "En dröm",
+            "En sko"
+          ],
+          "answer": 1,
+          "explain": "Vardaglig kortform av maraton."
+        }
+      ]
+    },
+    "lyssna": {
+      "title": "Sportradion: så avgjordes loppet",
+      "intro": "Lyssna på sportinslaget. Spela gärna upp en del i taget. Inslaget är skrivet för övningen och läses upp av webbläsarens röst.",
+      "vocab": [
+        "[[klunga|en grupp löpare som springer tillsammans]]",
+        "[[dra ifrån|springa ifrån, skaffa sig ett försprång]]",
+        "[[segerintervju|intervju med vinnaren direkt efter tävlingen]]"
+      ],
+      "script": [
+        "Sportradion, god morgon. Andreas Almgren är fortfarande det stora samtalsämnet efter gårdagens seger i New York Marathon.",
+        "Herrarnas lopp startade fem över tre på eftermiddagen svensk tid. Vädret var svalt och nästan perfekt för att springa fort. Efter trettiofem kilometer låg fortfarande femton löpare tillsammans i en klunga.",
+        "Sedan ökade Benson Kipruto farten, och klungan sprack. Med några kilometer kvar var bara tre löpare kvar i täten. På slutet drog Almgren ifrån italienaren Crippa. Trea blev Kamohelo Mofolo från Lesotho, som gick förbi Kipruto precis före mål. Almgrens tid blev två timmar, sex minuter och en sekund.",
+        "I segerintervjun skrattade Almgren och sa att maraton faktiskt var ganska kul.",
+        "Damernas lopp vann Sheila Chepkirui från Kenya, för andra gången. Totalt sprang ungefär sextiotusen personer loppet."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "När startade herrarnas lopp, svensk tid?",
+          "options": [
+            "Klockan nio på morgonen",
+            "Fem över tre på eftermiddagen",
+            "Klockan åtta på kvällen",
+            "Vid midnatt"
+          ],
+          "answer": 1,
+          "explain": "Fem över tre (15.05) svensk tid."
+        },
+        {
+          "type": "mc",
+          "q": "Hur var vädret?",
+          "options": [
+            "Varmt och fuktigt",
+            "Svalt och nästan perfekt",
+            "Regnigt och blåsigt",
+            "Snöigt"
+          ],
+          "answer": 1,
+          "explain": "Svalt och nästan perfekt."
+        },
+        {
+          "type": "mc",
+          "q": "Hur många löpare låg i klungan efter trettiofem kilometer?",
+          "options": [
+            "Tre",
+            "Fem",
+            "Femton",
+            "Femtio"
+          ],
+          "answer": 2,
+          "explain": "Femton löpare."
+        },
+        {
+          "type": "tf",
+          "q": "Det var Almgren som först ökade farten så att klungan sprack.",
+          "answer": false,
+          "explain": "Det var Benson Kipruto."
+        },
+        {
+          "type": "mc",
+          "q": "Vem kom trea?",
+          "options": [
+            "Benson Kipruto",
+            "Kamohelo Mofolo",
+            "Yemaneberhan Crippa",
+            "Sheila Chepkirui"
+          ],
+          "answer": 1,
+          "explain": "Mofolo från Lesotho, som gick förbi Kipruto precis före mål."
+        },
+        {
+          "type": "tf",
+          "q": "Almgren sa i segerintervjun att maraton var ganska kul.",
+          "answer": true,
+          "explain": "Han skrattade och sa att det var ganska kul."
+        },
+        {
+          "type": "mc",
+          "q": "Vem vann damernas lopp?",
+          "options": [
+            "En svenska",
+            "Sheila Chepkirui från Kenya",
+            "En amerikanska",
+            "Ingen – loppet ställdes in"
+          ],
+          "answer": 1,
+          "explain": "Sheila Chepkirui, för andra gången."
+        },
+        {
+          "type": "mc",
+          "q": "Ungefär hur många sprang loppet totalt?",
+          "options": [
+            "Sex tusen",
+            "Sextontusen",
+            "Sextiotusen",
+            "Sexhundratusen"
+          ],
+          "answer": 2,
+          "explain": "Ungefär sextiotusen."
+        },
+        {
+          "type": "dictation",
+          "text": "Efter trettiofem kilometer låg femton löpare i en klunga."
+        },
+        {
+          "type": "dictation",
+          "text": "På slutet drog Almgren ifrån."
+        }
+      ]
+    },
+    "skriva": {
+      "title": "Skriv om loppet",
+      "intro": "Böj orden, bygg meningar och översätt.",
+      "tasks": [
+        {
+          "type": "gap",
+          "q": "Almgren ___ (springa) sitt första maraton i söndags.",
+          "hint": "Preteritum av ett starkt verb.",
+          "accept": [
+            "sprang"
+          ],
+          "explain": "springa – sprang – har sprungit"
+        },
+        {
+          "type": "gap",
+          "q": "Han hade aldrig ___ (springa) ett maraton förut.",
+          "hint": "Supinum.",
+          "accept": [
+            "sprungit"
+          ],
+          "explain": "springa – sprang – har sprungit"
+        },
+        {
+          "type": "gap",
+          "q": "Det var hans ___ (stor) seger hittills.",
+          "hint": "Superlativ, bestämd form (hans …).",
+          "accept": [
+            "största"
+          ],
+          "explain": "stor – större – störst; hans största seger"
+        },
+        {
+          "type": "gap",
+          "q": "Crippa kom i mål tretton sekunder ___ (sen).",
+          "hint": "Komparativ.",
+          "accept": [
+            "senare"
+          ],
+          "explain": "sen – senare – senast"
+        },
+        {
+          "type": "order",
+          "en": "On Sunday Almgren won in New York.",
+          "accept": [
+            "På söndagen vann Almgren i New York."
+          ],
+          "explain": "Tidsuttryck först → verbet på plats två."
+        },
+        {
+          "type": "order",
+          "en": "He had never run a marathon before.",
+          "accept": [
+            "Han hade aldrig sprungit ett maraton förut."
+          ],
+          "explain": "”Aldrig” står efter det böjda verbet."
+        },
+        {
+          "type": "order",
+          "en": "I want to start running this winter.",
+          "accept": [
+            "Jag vill börja springa i vinter."
+          ],
+          "explain": ""
+        },
+        {
+          "type": "translate",
+          "en": "He won the race in his debut.",
+          "keywords": [
+            [
+              "han"
+            ],
+            [
+              "vann"
+            ],
+            [
+              "lopp"
+            ],
+            [
+              "debut"
+            ]
+          ],
+          "model": "Han vann loppet i sin debut."
+        },
+        {
+          "type": "translate",
+          "en": "He pulled away from the Italian at the end.",
+          "keywords": [
+            [
+              "han"
+            ],
+            [
+              "drog"
+            ],
+            [
+              "ifrån"
+            ],
+            [
+              "italien"
+            ],
+            [
+              "slut"
+            ]
+          ],
+          "model": "Han drog ifrån italienaren på slutet."
+        },
+        {
+          "type": "translate",
+          "en": "It was only four seconds from the Swedish record.",
+          "keywords": [
+            [
+              "bara",
+              "endast"
+            ],
+            [
+              "fyra"
+            ],
+            [
+              "sekunder"
+            ],
+            [
+              "svenska"
+            ],
+            [
+              "rekord"
+            ]
+          ],
+          "model": "Det var bara fyra sekunder från det svenska rekordet."
+        }
+      ],
+      "free": {
+        "prompt": "Skriv ett sms till en vän (40–70 ord) om loppet. Du får vara informell!",
+        "words": "40–70",
+        "checklist": [
+          "Skriv som man sms:ar: korta meningar är okej.",
+          "Använd gärna ett slangord, t.ex. [[asgrym|extremt bra|slang]] eller [[taggad|peppad|slang]].",
+          "Använd preteritum för det som hände (vann, sprang, satte in).",
+          "Föreslå att ni gör något tillsammans."
+        ],
+        "model": "Såg du maran?! Almgren var asgrym, han sprang med hela klungan och satte in ett ryck på slutet. Vann med tretton sekunder i sin första mara! Jag blev så taggad. Ska vi börja springa ihop på lördag? Typ fem km, inget mer. Lugn i stormen 😄"
+      }
+    },
+    "tala": {
+      "title": "Prata om sport",
+      "intro": "Läs meningarna högt och svara på frågorna med hela meningar.",
+      "tasks": [
+        {
+          "type": "read",
+          "text": "Almgren vann sitt första maraton."
+        },
+        {
+          "type": "read",
+          "text": "Han satte in ett ryck på slutet."
+        },
+        {
+          "type": "read",
+          "text": "Han drog ifrån på slutet."
+        },
+        {
+          "type": "read",
+          "text": "Han är världsmästare på halvmaraton."
+        },
+        {
+          "type": "read",
+          "text": "Han var helt asgrym i går."
+        },
+        {
+          "type": "read",
+          "text": "Jag blev så taggad att jag ska börja springa."
+        },
+        {
+          "type": "respond",
+          "q": "Vem vann New York Marathon?",
+          "hint": "Svara med namnet och ”vann”.",
+          "keywords": [
+            [
+              "almgren"
+            ],
+            [
+              "vann",
+              "vinner"
+            ]
+          ],
+          "model": "Andreas Almgren vann New York Marathon."
+        },
+        {
+          "type": "respond",
+          "q": "Vilket land kommer tvåan Crippa från?",
+          "hint": "Svara med en hel mening.",
+          "keywords": [
+            [
+              "italien"
+            ]
+          ],
+          "model": "Crippa kommer från Italien."
+        },
+        {
+          "type": "respond",
+          "q": "Tränar du någon sport? Berätta!",
+          "hint": "Använd ”jag” och ett verb som tränar, springer, spelar …",
+          "keywords": [
+            [
+              "jag"
+            ],
+            [
+              "tränar",
+              "springer",
+              "spelar",
+              "simmar",
+              "cyklar",
+              "går",
+              "dansar",
+              "gör"
+            ]
+          ],
+          "model": "Jag springer två gånger i veckan."
+        },
+        {
+          "type": "respond",
+          "q": "Vad betyder att vara taggad?",
+          "hint": "Förklara: ”Det betyder att man …”.",
+          "keywords": [
+            [
+              "peppad",
+              "ivrig",
+              "sugen",
+              "laddad",
+              "glad"
+            ]
+          ],
+          "model": "Det betyder att man är peppad och ivrig."
+        }
+      ]
+    }
+  }
+}

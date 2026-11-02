@@ -1,0 +1,477 @@
+{
+  "id": "avtalsrorelsen",
+  "title": "Facken kräver 3,9 procent – avtalsrörelsen drar igång",
+  "short": "Lönerna",
+  "dateLabel": "2 november 2026",
+  "level": "B1–B2",
+  "summary": "Industrins fack har lagt sina lönekrav inför 2027. Arbetsgivarna tycker att kraven är för höga.",
+  "sources": [
+    {
+      "title": "Arbetet: LO och industrifacken kräver 3,9 procent i löneökning",
+      "url": "https://arbetet.se/2026/11/02/industrifacken-kraver-39-procent-i-loneokning/"
+    },
+    {
+      "title": "Byggnadsarbetaren: Industrifackens krav",
+      "url": "https://www.byggnadsarbetaren.se/sa-stor-lonehojning-kraver-industrin/"
+    },
+    {
+      "title": "Industriarbetsgivarna (via TT): ”Fackens lönekrav på en utmanande nivå”",
+      "url": "https://via.tt.se/pressmeddelande/4624228/fackens-lonekrav-pa-en-utmanande-niva?lang=sv"
+    },
+    {
+      "title": "Publikt: Facken inom industrin kräver 3,9 procent",
+      "url": "https://www.publikt.se/nyhet/facken-inom-industrin-kraver-39-procent-i-loneokningar-28111"
+    }
+  ],
+  "exercises": {
+    "lasa": {
+      "title": "Industrifacken lägger sina lönekrav",
+      "intro": "Läs texten. Tryck på de understrukna orden för förklaringar. Svara sedan på frågorna.",
+      "text": [
+        "På måndagen presenterade de fem facken inom industrin sina krav inför [[avtalsrörelsen|perioden när fack och arbetsgivare förhandlar om nya kollektivavtal]] 2027. De kräver att lönerna ska höjas med 3,9 procent i ett avtal som gäller i ett år. Bakom kravet står Unionen, IF Metall, Sveriges Ingenjörer, GS-facket och Livs.",
+        "Facken vill också att en del av pengarna ska användas till [[arbetstidsförkortning|att man arbetar färre timmar utan att lönen sänks]]. Exakt hur mycket kortare arbetstiden ska bli bestäms senare. Enligt facken går det bra för den svenska industrin, och därför kan lönerna öka mer än priserna utan att jobben hotas.",
+        "Arbetsgivarna håller inte med. Industriarbetsgivarna kallar kravet en utmanande nivå och säger att svensk industri behöver hålla nere kostnaderna. De är också emot kortare arbetstid.",
+        "Industrins avtal är viktiga eftersom de sätter [[märket|den nivå för löneökningar som resten av arbetsmarknaden brukar följa]]. De nuvarande avtalen gäller till den 31 mars 2027. Enligt Medlingsinstitutet ska över 500 kollektivavtal förhandlas om, och de berör drygt 3,4 miljoner anställda. Planen är att parterna byter krav i december och förhandlar från januari till mars. I förra avtalsrörelsen, 2025, krävde facken 4,2 procent. Då slutade det med ett avtal på sammanlagt 6,4 procent under två år.",
+        "Så kan det låta i fikarummet (påhittat exempel): – Har du sett? Facken vill ha 3,9 procent. – [[Schysst|bra, juste|vardagligt]]! Jag [[knegar|arbetar|slang]] ju ändå hela dagarna. – Men [[bossen|chefen|slang]] lär inte bli glad. – Nej, men en kortare arbetsvecka hade varit [[grymt|jättebra|vardagligt]]."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Hur stor löneökning kräver industrifacken?",
+          "options": [
+            "3,0 procent",
+            "3,4 procent",
+            "3,9 procent",
+            "6,4 procent"
+          ],
+          "answer": 2,
+          "explain": "Kravet är 3,9 procent."
+        },
+        {
+          "type": "mc",
+          "q": "Hur länge ska det nya avtalet gälla enligt facken?",
+          "options": [
+            "Ett år",
+            "Två år",
+            "Tre år",
+            "Tills vidare"
+          ],
+          "answer": 0,
+          "explain": "Facken vill ha ett ettårigt avtal."
+        },
+        {
+          "type": "mc",
+          "q": "Vad vill facken använda en del av pengarna till?",
+          "options": [
+            "Längre semester",
+            "Kortare arbetstid",
+            "Högre pensioner",
+            "Fler anställda"
+          ],
+          "answer": 1,
+          "explain": "Till arbetstidsförkortning."
+        },
+        {
+          "type": "mc",
+          "q": "Vad tycker Industriarbetsgivarna?",
+          "options": [
+            "Att kravet är för lågt",
+            "Att kravet är på en utmanande nivå",
+            "Att avtalet ska gälla i fem år",
+            "Att arbetstiden ska kortas mer"
+          ],
+          "answer": 1,
+          "explain": "De kallar kravet en utmanande nivå."
+        },
+        {
+          "type": "tf",
+          "q": "Unionen är ett av facken bakom kravet.",
+          "answer": true,
+          "explain": "Unionen är ett av de fem facken."
+        },
+        {
+          "type": "tf",
+          "q": "De nuvarande avtalen gäller till den 31 december 2026.",
+          "answer": false,
+          "explain": "De gäller till den 31 mars 2027."
+        },
+        {
+          "type": "tf",
+          "q": "Avtalsrörelsen berör över tre miljoner anställda.",
+          "answer": true,
+          "explain": "Drygt 3,4 miljoner anställda."
+        },
+        {
+          "type": "mc",
+          "q": "Vad är ”märket”?",
+          "options": [
+            "Ett fackförbunds logga",
+            "Lönenivån som resten av arbetsmarknaden brukar följa",
+            "En sorts strejk",
+            "Ett kontrakt för chefer"
+          ],
+          "answer": 1,
+          "explain": "Industrins avtal sätter märket."
+        },
+        {
+          "type": "mc",
+          "q": "”Jag knegar hela dagarna.” Vad betyder slangordet ”knega”?",
+          "options": [
+            "sova",
+            "arbeta",
+            "klaga",
+            "äta"
+          ],
+          "answer": 1,
+          "explain": "Knega = arbeta (slang)."
+        },
+        {
+          "type": "mc",
+          "q": "Vem är ”bossen”?",
+          "options": [
+            "Chefen",
+            "Kollegan",
+            "Facket",
+            "Kunden"
+          ],
+          "answer": 0,
+          "explain": "Bossen = chefen (slang, från engelska)."
+        }
+      ]
+    },
+    "lyssna": {
+      "title": "Ordlistan: så funkar en avtalsrörelse",
+      "intro": "Lyssna på inslaget. Spela gärna upp en del i taget. Inslaget är skrivet för övningen och läses upp av webbläsarens röst.",
+      "vocab": [
+        "[[kollektivavtal|avtal mellan fack och arbetsgivare om lön och villkor]]",
+        "[[medlare|en neutral person som hjälper parterna att komma överens]]",
+        "[[varsla|meddela i förväg]]"
+      ],
+      "script": [
+        "Det här är Ordlistan, programmet som förklarar orden i nyheterna. I dag: avtalsrörelsen.",
+        "I Sverige bestämmer staten inte någon minimilön. I stället kommer fack och arbetsgivare överens om löner och villkor i kollektivavtal. När avtalen löper ut förhandlar man om nya. Det kallas avtalsrörelsen. Även den som inte är med i facket omfattas ofta av kollektivavtalet på sin arbetsplats.",
+        "Först byter parterna krav. Facket vill ofta ha högre löner och bättre villkor, arbetsgivarna vill hålla nere kostnaderna. Sedan förhandlar man, ibland i flera månader.",
+        "Om man inte kommer överens kan en medlare hjälpa till. Om det ändå inte går kan facket varsla om strejk, och arbetsgivarna kan varsla om lockout. Men i de flesta fall blir det ett nytt avtal utan konflikt.",
+        "Nästa vecka i Ordlistan: vad betyder egentligen inflation?"
+      ],
+      "questions": [
+        {
+          "type": "tf",
+          "q": "I Sverige bestämmer staten en minimilön.",
+          "answer": false,
+          "explain": "Staten bestämmer ingen minimilön."
+        },
+        {
+          "type": "mc",
+          "q": "Vilka kommer överens om löner i kollektivavtal?",
+          "options": [
+            "Riksdagen och regeringen",
+            "Fack och arbetsgivare",
+            "Kommunerna",
+            "Medlingsinstitutet ensamt"
+          ],
+          "answer": 1,
+          "explain": "Fack och arbetsgivare."
+        },
+        {
+          "type": "mc",
+          "q": "Vad gör parterna först i en avtalsrörelse?",
+          "options": [
+            "Strejkar",
+            "Byter krav",
+            "Skriver under avtalet",
+            "Anställer en medlare"
+          ],
+          "answer": 1,
+          "explain": "Först byter de krav."
+        },
+        {
+          "type": "mc",
+          "q": "Vad vill arbetsgivarna ofta?",
+          "options": [
+            "Höja lönerna mycket",
+            "Hålla nere kostnaderna",
+            "Korta arbetstiden",
+            "Strejka"
+          ],
+          "answer": 1,
+          "explain": "De vill hålla nere kostnaderna."
+        },
+        {
+          "type": "mc",
+          "q": "Vad gör en medlare?",
+          "options": [
+            "Bestämmer lönen själv",
+            "Hjälper parterna att komma överens",
+            "Leder strejken",
+            "Betalar ut lönerna"
+          ],
+          "answer": 1,
+          "explain": "En medlare hjälper parterna."
+        },
+        {
+          "type": "tf",
+          "q": "Arbetsgivarna kan varsla om lockout.",
+          "answer": true,
+          "explain": "Facket kan varsla om strejk, arbetsgivarna om lockout."
+        },
+        {
+          "type": "tf",
+          "q": "Enligt inslaget slutar de flesta avtalsrörelser med strejk.",
+          "answer": false,
+          "explain": "I de flesta fall blir det ett avtal utan konflikt."
+        },
+        {
+          "type": "mc",
+          "q": "Vad handlar nästa program om?",
+          "options": [
+            "Räntor",
+            "Inflation",
+            "Skatter",
+            "Pensioner"
+          ],
+          "answer": 1,
+          "explain": "Inflation."
+        },
+        {
+          "type": "dictation",
+          "text": "När avtalen löper ut förhandlar man om nya."
+        },
+        {
+          "type": "dictation",
+          "text": "Facket kan varsla om strejk."
+        }
+      ]
+    },
+    "skriva": {
+      "title": "Skriv om lönerna",
+      "intro": "Böj orden, bygg meningar och översätt.",
+      "tasks": [
+        {
+          "type": "gap",
+          "q": "Facken ___ (presentera) sina krav i måndags.",
+          "hint": "Preteritum.",
+          "accept": [
+            "presenterade"
+          ],
+          "explain": "presentera – presenterade – har presenterat"
+        },
+        {
+          "type": "gap",
+          "q": "Lönerna ska ___ (höja) med 3,9 procent.",
+          "hint": "Passiv infinitiv (-s).",
+          "accept": [
+            "höjas"
+          ],
+          "explain": "höja → höjas (passiv)"
+        },
+        {
+          "type": "gap",
+          "q": "Arbetsgivarna tycker att kravet är för ___ (hög).",
+          "hint": "Predikativ efter ”kravet är” (ett-ord).",
+          "accept": [
+            "högt"
+          ],
+          "explain": "kravet är högt (t-form)"
+        },
+        {
+          "type": "gap",
+          "q": "Över 500 avtal ska ___ (förhandla) om.",
+          "hint": "Passiv infinitiv.",
+          "accept": [
+            "förhandlas"
+          ],
+          "explain": "förhandla → förhandlas"
+        },
+        {
+          "type": "order",
+          "en": "In December the parties exchange demands.",
+          "accept": [
+            "I december byter parterna krav."
+          ],
+          "explain": "Tidsuttryck först → verbet på plats två."
+        },
+        {
+          "type": "order",
+          "en": "The employers do not agree.",
+          "accept": [
+            "Arbetsgivarna håller inte med."
+          ],
+          "explain": "”Inte” står efter verbet i huvudsatsen."
+        },
+        {
+          "type": "order",
+          "en": "I think that wages should rise.",
+          "accept": [
+            "Jag tycker att lönerna ska stiga."
+          ],
+          "explain": ""
+        },
+        {
+          "type": "translate",
+          "en": "The unions demand higher wages.",
+          "keywords": [
+            [
+              "fack"
+            ],
+            [
+              "kräver"
+            ],
+            [
+              "högre"
+            ],
+            [
+              "lön"
+            ]
+          ],
+          "model": "Facken kräver högre löner."
+        },
+        {
+          "type": "translate",
+          "en": "The agreement should apply for one year.",
+          "keywords": [
+            [
+              "avtal"
+            ],
+            [
+              "ska",
+              "bör"
+            ],
+            [
+              "gälla"
+            ],
+            [
+              "ett år",
+              "ettårigt"
+            ]
+          ],
+          "model": "Avtalet ska gälla i ett år."
+        },
+        {
+          "type": "translate",
+          "en": "A shorter working week would be great.",
+          "keywords": [
+            [
+              "kortare"
+            ],
+            [
+              "arbetsvecka",
+              "arbetstid"
+            ],
+            [
+              "skulle",
+              "hade",
+              "vore"
+            ],
+            [
+              "bra",
+              "grymt",
+              "toppen",
+              "jättebra",
+              "fantastiskt",
+              "underbart",
+              "härligt"
+            ]
+          ],
+          "model": "En kortare arbetsvecka skulle vara jättebra."
+        }
+      ],
+      "free": {
+        "prompt": "Skriv ett kort debattinlägg (50–80 ord): Är kortare arbetstid viktigare än högre lön? Ge ett skäl för och ett emot.",
+        "words": "50–80",
+        "checklist": [
+          "Börja med din åsikt: ”Jag tycker att …”.",
+          "Använd ”å ena sidan … å andra sidan”.",
+          "Använd ett ord från texten, t.ex. märket eller kollektivavtal.",
+          "Debattinlägg är formella – undvik slang som [[knega|arbeta|slang]]."
+        ],
+        "model": "Jag tycker att kortare arbetstid är viktigare än några extra kronor i lönekuvertet. Å ena sidan behöver många högre lön när priserna stiger. Å andra sidan mår människor bättre när de får mer tid för familj och vila, och då orkar de också jobba längre upp i åldern. Därför hoppas jag att avtalsrörelsen ger oss en kortare arbetsvecka."
+      }
+    },
+    "tala": {
+      "title": "Prata om jobb och lön",
+      "intro": "Läs meningarna högt och svara på frågorna med hela meningar.",
+      "tasks": [
+        {
+          "type": "read",
+          "text": "Facken kräver högre löner."
+        },
+        {
+          "type": "read",
+          "text": "Arbetsgivarna håller inte med."
+        },
+        {
+          "type": "read",
+          "text": "Avtalen gäller till slutet av mars."
+        },
+        {
+          "type": "read",
+          "text": "En medlare kan hjälpa parterna."
+        },
+        {
+          "type": "read",
+          "text": "Jag knegar hela dagarna."
+        },
+        {
+          "type": "read",
+          "text": "En kortare arbetsvecka vore grymt."
+        },
+        {
+          "type": "respond",
+          "q": "Vad kräver industrifacken?",
+          "hint": "Nämn lön eller procent.",
+          "keywords": [
+            [
+              "lön",
+              "procent"
+            ]
+          ],
+          "model": "De kräver tre komma nio procent högre lön."
+        },
+        {
+          "type": "respond",
+          "q": "Vad betyder ordet knega?",
+          "hint": "Svara: ”Det betyder att …”.",
+          "keywords": [
+            [
+              "arbeta",
+              "jobba"
+            ]
+          ],
+          "model": "Det betyder att arbeta."
+        },
+        {
+          "type": "respond",
+          "q": "Vill du hellre ha högre lön eller kortare arbetstid?",
+          "hint": "Använd ”hellre” och ”eftersom”.",
+          "keywords": [
+            [
+              "hellre",
+              "föredrar"
+            ],
+            [
+              "eftersom",
+              "för att",
+              "därför"
+            ]
+          ],
+          "model": "Jag vill hellre ha kortare arbetstid eftersom jag vill ha mer fritid."
+        },
+        {
+          "type": "respond",
+          "q": "Vem brukar följa märket?",
+          "hint": "Tänk på resten av arbetsmarknaden.",
+          "keywords": [
+            [
+              "arbetsmarknad",
+              "andra",
+              "övriga",
+              "resten"
+            ]
+          ],
+          "model": "Resten av arbetsmarknaden brukar följa märket."
+        }
+      ]
+    }
+  }
+}

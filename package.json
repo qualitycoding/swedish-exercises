@@ -1,0 +1,16 @@
+{
+  "name": "swedish-exercises",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Swedish reading, writing, listening and speaking exercises on current affairs, served by GitHub Pages.",
+  "type": "module",
+  "license": "Apache-2.0",
+  "scripts": {
+    "validate": "node tools/validate.mjs",
+    "test": "node tools/validate.mjs && node --test tests/*.test.mjs",
+    "serve": "node -e \"import('./tests/server.mjs').then(m=>m.serve('.')).then(s=>console.log(s.url))\""
+  },
+  "devDependencies": {
+    "playwright": "1.63.0"
+  }
+}

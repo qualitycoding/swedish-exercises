@@ -1,0 +1,476 @@
+{
+  "id": "elpriset",
+  "title": "Dyr el i söder – nu aktiveras högkostnadsskyddet",
+  "short": "Elpriset",
+  "dateLabel": "2 november 2026",
+  "level": "B1–B2",
+  "summary": "Elpriset i södra Sverige var så högt i oktober att statens högkostnadsskydd slår till. Men hur mycket hushållen får är inte klart.",
+  "sources": [
+    {
+      "title": "Regeringen: Pressträff om högkostnadsskyddets utformning",
+      "url": "https://www.regeringen.se/pressmeddelanden/2026/11/presstraff-om-hogkostnadsskyddets-utformning/"
+    },
+    {
+      "title": "TN: Högkostnadsskydd aktiveras i södra Sverige",
+      "url": "https://www.tn.se/naringsliv/49859/hogkostnadsskydd-aktiveras-i-sodra-sverige/"
+    },
+    {
+      "title": "Falkenberg Energi: Högkostnadsskyddet för el aktiveras i SE4",
+      "url": "https://www.falkenberg-energi.se/2026/11/02/hogkostnadsskyddet-for-el-aktiveras-i-se4/"
+    },
+    {
+      "title": "Elbruk: Sänkt energiskatt och kostnadstak 2026",
+      "url": "https://www.elbruk.se/blogg/sankt-elskatt-kostnadstak"
+    }
+  ],
+  "exercises": {
+    "lasa": {
+      "title": "Högkostnadsskyddet slår till i elområde fyra",
+      "intro": "Läs texten. Tryck på de understrukna orden för förklaringar. Svara sedan på frågorna.",
+      "text": [
+        "Hushåll i södra Sverige har fått betala mycket för elen i höst. Nu meddelar regeringen att statens [[högkostnadsskydd|ett skydd som gör att man inte behöver betala hur mycket som helst]] för el aktiveras i elområde fyra, det sydligaste av Sveriges fyra [[elområden|delar av landet med var sitt elpris]].",
+        "Skyddet finns med i budgeten för 2026. Det aktiveras om [[spotpriset|elpriset på elbörsen timme för timme]] i ett elområde i genomsnitt blir högre än 1,50 kronor per kilowattimme under en hel kalendermånad. I oktober var genomsnittet i elområde fyra högre än den gränsen.",
+        "Men pengarna kommer inte direkt. Regeringen måste först besluta om reglerna: hur ersättningen ska räknas ut, vilka villkor som gäller och hur den ska betalas ut. Därför vet ingen ännu hur mycket ett enskilt hushåll kan få, eller när. På tisdag förmiddag håller energi- och näringsminister Ebba Busch och finansminister Elisabeth Svantesson en pressträff om hur skyddet ska se ut.",
+        "Förra vintern betalade staten ut ett tillfälligt el- och gasstöd för januari och februari, efter en kall vinter och ett osäkert läge i omvärlden. Elkunderna behöver inte göra något själva just nu, enligt elbolagen.",
+        "Så kan det låta i fikarummet (påhittat exempel): – Min [[elräkning|räkningen för el]] var helt [[sjuk|orimlig, galen (om något dåligt eller extremt)|slang]] i oktober. – Min också. Jag har börjat [[snåla|spara, vara sparsam|vardagligt]] med allt. – Smart. Det [[svider i plånboken|kostar så mycket att det känns|idiom]]. Hoppas att stödet kommer före jul, annars är jag [[pank|utan pengar|vardagligt]] i januari."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Var aktiveras högkostnadsskyddet?",
+          "options": [
+            "I hela Sverige",
+            "I elområde ett",
+            "I elområde fyra",
+            "Bara i Stockholm"
+          ],
+          "answer": 2,
+          "explain": "Det gäller elområde fyra, längst söderut."
+        },
+        {
+          "type": "mc",
+          "q": "När aktiveras skyddet?",
+          "options": [
+            "När elpriset en enda timme är över 1,50 kr/kWh",
+            "När månadens genomsnittliga spotpris är över 1,50 kr/kWh",
+            "När det är kallare än minus tio grader",
+            "Varje vinter"
+          ],
+          "answer": 1,
+          "explain": "Det är genomsnittet under en kalendermånad som räknas."
+        },
+        {
+          "type": "mc",
+          "q": "Varför kommer pengarna inte direkt?",
+          "options": [
+            "Elbolagen vill inte betala",
+            "Regeringen måste först besluta om reglerna",
+            "Riksdagen har sagt nej",
+            "Hushållen måste ansöka först"
+          ],
+          "answer": 1,
+          "explain": "Regeringen ska bestämma hur ersättningen räknas ut och betalas."
+        },
+        {
+          "type": "mc",
+          "q": "Vad händer på tisdag förmiddag?",
+          "options": [
+            "Stödet betalas ut",
+            "Två ministrar håller pressträff om skyddet",
+            "Elpriset sänks",
+            "Riksdagen röstar om budgeten"
+          ],
+          "answer": 1,
+          "explain": "Ebba Busch och Elisabeth Svantesson håller pressträff."
+        },
+        {
+          "type": "tf",
+          "q": "Sverige har fyra elområden.",
+          "answer": true,
+          "explain": "Elområde fyra är det sydligaste av fyra."
+        },
+        {
+          "type": "tf",
+          "q": "Det är redan bestämt hur mycket varje hushåll får.",
+          "answer": false,
+          "explain": "Ingen vet ännu hur mycket eller när."
+        },
+        {
+          "type": "tf",
+          "q": "Elkunderna måste ansöka om stödet redan nu.",
+          "answer": false,
+          "explain": "Enligt elbolagen behöver kunderna inte göra något just nu."
+        },
+        {
+          "type": "mc",
+          "q": "I fikarummet: ”Min elräkning var helt sjuk.” Vad betyder ”sjuk” här?",
+          "options": [
+            "Att räkningen hade ett fel",
+            "Att räkningen var orimligt hög",
+            "Att personen var sjuk",
+            "Att räkningen kom sent"
+          ],
+          "answer": 1,
+          "explain": "”Sjuk” är slang för något galet eller extremt."
+        },
+        {
+          "type": "mc",
+          "q": "Vad betyder ”det svider i plånboken”?",
+          "options": [
+            "Plånboken är trasig",
+            "Det kostar så mycket att det känns",
+            "Man har tappat plånboken",
+            "Man har fått pengar"
+          ],
+          "answer": 1,
+          "explain": "Ett idiom om att något är dyrt."
+        },
+        {
+          "type": "mc",
+          "q": "Vilket ord är vardagligt för att ”inte ha några pengar”?",
+          "options": [
+            "snål",
+            "pank",
+            "rik",
+            "ledig"
+          ],
+          "answer": 1,
+          "explain": "”Pank” = utan pengar. ”Snål” betyder att man inte vill ge eller spendera."
+        }
+      ]
+    },
+    "lyssna": {
+      "title": "Fem tips för en lägre elräkning",
+      "intro": "Lyssna på konsumentinslaget. Spela gärna upp en del i taget. Inslaget är skrivet för övningen och läses upp av webbläsarens röst.",
+      "vocab": [
+        "[[elbov|något som drar mycket el]]",
+        "[[timpris|elpriset för en viss timme]]",
+        "[[standby|när en apparat är avstängd men ändå drar ström]]"
+      ],
+      "script": [
+        "Hej och välkommen till Pengakollen! Elpriset är högt i södra Sverige, så i dag ger vi fem enkla tips för att spara.",
+        "Tips ett: sänk temperaturen inomhus med en grad. Det kan märkas på räkningen. Tips två: tvätta och diska när elen är billigare, ofta sent på kvällen eller på natten. Kolla timpriset i elbolagets app.",
+        "Tips tre: stäng av apparater helt i stället för att låta dem stå på standby. Tips fyra: duscha kortare. Varmvattnet är ofta en riktig elbov.",
+        "Tips fem: jämför elavtal. Med ett rörligt avtal följer du priset på elbörsen, med ett fast avtal betalar du samma pris hela tiden. Vilket som är bäst beror på hur du använder el och hur mycket risk du vill ta.",
+        "Det var allt för i dag. Hör av dig med dina egna spartips!"
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Vad heter programmet?",
+          "options": [
+            "Elkollen",
+            "Pengakollen",
+            "Konsumentlådan",
+            "Ekot"
+          ],
+          "answer": 1,
+          "explain": "Programmet heter Pengakollen."
+        },
+        {
+          "type": "mc",
+          "q": "Hur mycket ska man sänka temperaturen inomhus enligt tips ett?",
+          "options": [
+            "En grad",
+            "Två grader",
+            "Fem grader",
+            "Tio grader"
+          ],
+          "answer": 0,
+          "explain": "En grad."
+        },
+        {
+          "type": "mc",
+          "q": "När är elen ofta billigare?",
+          "options": [
+            "Mitt på dagen",
+            "Sent på kvällen eller på natten",
+            "Tidigt på morgonen",
+            "På lunchen"
+          ],
+          "answer": 1,
+          "explain": "Ofta sent på kvällen eller på natten."
+        },
+        {
+          "type": "tf",
+          "q": "Man ska låta apparater stå på standby för att spara el.",
+          "answer": false,
+          "explain": "Man ska stänga av dem helt."
+        },
+        {
+          "type": "tf",
+          "q": "Varmvatten kan kosta mycket el.",
+          "answer": true,
+          "explain": "Inslaget kallar varmvattnet en elbov."
+        },
+        {
+          "type": "mc",
+          "q": "Vad gäller för ett fast elavtal?",
+          "options": [
+            "Priset följer elbörsen",
+            "Man betalar samma pris hela tiden",
+            "Elen är gratis på natten",
+            "Man betalar bara på vintern"
+          ],
+          "answer": 1,
+          "explain": "Fast avtal = samma pris hela tiden."
+        },
+        {
+          "type": "tf",
+          "q": "Enligt inslaget är ett rörligt avtal alltid bäst.",
+          "answer": false,
+          "explain": "Det beror på hur man använder el och hur mycket risk man vill ta."
+        },
+        {
+          "type": "mc",
+          "q": "Vad är en ”elbov”?",
+          "options": [
+            "En elektriker",
+            "Något som drar mycket el",
+            "En billig lampa",
+            "En elräkning"
+          ],
+          "answer": 1,
+          "explain": "En elbov drar mycket el."
+        },
+        {
+          "type": "dictation",
+          "text": "Elpriset är högt i södra Sverige."
+        },
+        {
+          "type": "dictation",
+          "text": "Stäng av apparater helt."
+        }
+      ]
+    },
+    "skriva": {
+      "title": "Skriv om elen och pengarna",
+      "intro": "Böj orden, bygg meningar och översätt. Tänk på ordföljden och adjektivens former.",
+      "tasks": [
+        {
+          "type": "gap",
+          "q": "Elen var ___ (dyr) i oktober än i september.",
+          "hint": "Komparativ.",
+          "accept": [
+            "dyrare"
+          ],
+          "explain": "dyr – dyrare – dyrast"
+        },
+        {
+          "type": "gap",
+          "q": "Regeringen har ___ (meddela) att skyddet aktiveras.",
+          "hint": "Supinum.",
+          "accept": [
+            "meddelat"
+          ],
+          "explain": "meddela – meddelade – har meddelat"
+        },
+        {
+          "type": "gap",
+          "q": "Det var en ___ (kall) vinter förra året.",
+          "hint": "Adjektiv efter ”en”.",
+          "accept": [
+            "kall"
+          ],
+          "explain": "en kall vinter (n-ord, obestämd form)"
+        },
+        {
+          "type": "gap",
+          "q": "Många hushåll har ___ (få) betala mycket i höst.",
+          "hint": "Supinum (efter har).",
+          "accept": [
+            "fått"
+          ],
+          "explain": "få – fick – har fått"
+        },
+        {
+          "type": "order",
+          "en": "In October the electricity was very expensive.",
+          "accept": [
+            "I oktober var elen väldigt dyr."
+          ],
+          "explain": "Tidsuttryck först → verbet på plats två."
+        },
+        {
+          "type": "order",
+          "en": "Nobody knows yet how much one gets.",
+          "accept": [
+            "Ingen vet ännu hur mycket man får."
+          ],
+          "explain": "Bisatsen ”hur mycket man får” har rak ordföljd."
+        },
+        {
+          "type": "order",
+          "en": "I have started to save on everything.",
+          "accept": [
+            "Jag har börjat spara på allt."
+          ],
+          "explain": ""
+        },
+        {
+          "type": "translate",
+          "en": "The electricity bill was very high.",
+          "keywords": [
+            [
+              "elräkning"
+            ],
+            [
+              "var"
+            ],
+            [
+              "väldigt",
+              "mycket",
+              "jätte",
+              "sjukt",
+              "otroligt"
+            ],
+            [
+              "hög"
+            ]
+          ],
+          "model": "Elräkningen var väldigt hög."
+        },
+        {
+          "type": "translate",
+          "en": "The government must first decide on the rules.",
+          "keywords": [
+            [
+              "regering"
+            ],
+            [
+              "måste"
+            ],
+            [
+              "först"
+            ],
+            [
+              "besluta",
+              "bestämma"
+            ],
+            [
+              "regler"
+            ]
+          ],
+          "model": "Regeringen måste först besluta om reglerna."
+        },
+        {
+          "type": "translate",
+          "en": "Electricity is often cheaper at night.",
+          "keywords": [
+            [
+              "el"
+            ],
+            [
+              "ofta"
+            ],
+            [
+              "billigare"
+            ],
+            [
+              "natt"
+            ]
+          ],
+          "model": "Elen är ofta billigare på natten."
+        }
+      ],
+      "free": {
+        "prompt": "Skriv ett inlägg i en grupp för grannar (50–80 ord). Berätta hur du försöker spara el och ge ett tips.",
+        "words": "50–80",
+        "checklist": [
+          "Använd minst en komparativ (dyrare, billigare, mindre …).",
+          "Använd ”eftersom” eller ”därför att” för att förklara varför.",
+          "Testa ett vardagligt ord, t.ex. [[snåla|spara|vardagligt]] – passar bra i en grannchatt.",
+          "Avsluta med en fråga till grannarna."
+        ],
+        "model": "Hej grannar! Elräkningen för oktober svider verkligen i plånboken, så nu försöker jag snåla lite. Jag har sänkt värmen med en grad och tvättar bara sent på kvällen eftersom elen är billigare då. Jag stänger också av tv:n helt i stället för standby. Det låter som småsaker, men det blir mindre i slutändan. Har ni några bra spartips?"
+      }
+    },
+    "tala": {
+      "title": "Prata om elpriset",
+      "intro": "Läs meningarna högt och svara på frågorna med hela meningar.",
+      "tasks": [
+        {
+          "type": "read",
+          "text": "Elen är dyr i södra Sverige."
+        },
+        {
+          "type": "read",
+          "text": "Högkostnadsskyddet aktiveras i elområde fyra."
+        },
+        {
+          "type": "read",
+          "text": "Pengarna kommer inte direkt."
+        },
+        {
+          "type": "read",
+          "text": "Jag tvättar sent på kvällen."
+        },
+        {
+          "type": "read",
+          "text": "Min elräkning var helt sjuk."
+        },
+        {
+          "type": "read",
+          "text": "Det svider i plånboken."
+        },
+        {
+          "type": "respond",
+          "q": "Var är elen dyrast i Sverige?",
+          "hint": "Svara med ”i södra Sverige” eller ”i elområde fyra”.",
+          "keywords": [
+            [
+              "söd",
+              "syd",
+              "elområde fyra",
+              "skåne"
+            ]
+          ],
+          "model": "Elen är dyrast i södra Sverige."
+        },
+        {
+          "type": "respond",
+          "q": "När är elen ofta billigast?",
+          "hint": "Tänk på tid på dygnet.",
+          "keywords": [
+            [
+              "natt",
+              "kväll"
+            ]
+          ],
+          "model": "Elen är ofta billigast på natten."
+        },
+        {
+          "type": "respond",
+          "q": "Hur sparar du el hemma?",
+          "hint": "Börja med ”Jag …”.",
+          "keywords": [
+            [
+              "jag"
+            ],
+            [
+              "stänger",
+              "sänker",
+              "duschar",
+              "tvättar",
+              "släcker",
+              "sparar",
+              "använder"
+            ]
+          ],
+          "model": "Jag stänger av lampor och duschar kortare."
+        },
+        {
+          "type": "respond",
+          "q": "Vad betyder det att vara pank?",
+          "hint": "Förklara med ”att man …”.",
+          "keywords": [
+            [
+              "pengar"
+            ]
+          ],
+          "model": "Det betyder att man inte har några pengar."
+        }
+      ]
+    }
+  }
+}
