@@ -1,0 +1,36 @@
+name: Live site check
+
+on:
+  workflow_dispatch:
+  deployment_status:
+
+permissions:
+  contents: read
+
+jobs:
+  live:
+    if: github.event_name == 'workflow_dispatch' || github.event.deployment_status.state == 'success'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    env:
+      SITE: https://qualitycoding.github.io/swedish-exercises/
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Every data file is served as JSON
+        run: |
+          set -euo pipefail
+          fail=0
+          for f in index.html assets/app.js assets/scoring.js assets/style.css data/manifest.json data/themes/*.json; do
+            code=$(curl -sS -o /tmp/body -w '%{http_code} %{content_type} %{url_effective}' -L "${SITE}${f}")
+            echo "$f -> $code"
+            case "$f" in
+              *.json)
+                if ! python3 -c 'import json,sys; json.load(open("/tmp/body"))' 2>/dev/null; then
+                  echo "::error title=Not JSON::$f -> $code -> $(head -c 120 /tmp/body | tr '\n' ' ')"
+                  fail=1
+                fi ;;
+            esac
+          done
+          code=$(curl -sS -o /dev/null -w '%{http_code} -> %{redirect_url}' "https://qualitycoding.github.io/swedish-exercises")
+          echo "::notice title=No-slash URL::$code"
+          exit $fail
