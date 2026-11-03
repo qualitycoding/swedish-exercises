@@ -941,12 +941,37 @@ function route() {
   document.documentElement.dataset.route = location.hash || "#/";
 }
 
+/** Fetch JSON, bypassing stale caches, and say exactly what came back when it is not JSON. */
+async function fetchJson(path) {
+  const url = new URL(path, document.baseURI).href;
+  let res;
+  try {
+    res = await fetch(url, { cache: "no-cache" });
+  } catch (err) {
+    throw new Error(`${url}: nätverksfel (${err.message})`);
+  }
+  const text = await res.text();
+  try {
+    if (!res.ok) throw new Error("status");
+    return JSON.parse(text);
+  } catch {
+    const start = text.replace(/\s+/g, " ").trim().slice(0, 80);
+    throw new Error(`${url}: HTTP ${res.status}, ${res.headers.get("content-type") || "okänd typ"}, började med ”${start}”`);
+  }
+}
+
 async function boot() {
   try {
-    const manifest = await (await fetch("data/manifest.json")).json();
-    themes = await Promise.all(manifest.themes.map(async (f) => (await fetch(`data/${f}`)).json()));
+    const manifest = await fetchJson("data/manifest.json");
+    themes = await Promise.all(manifest.themes.map((f) => fetchJson(`data/${f}`)));
   } catch (err) {
-    fill(app, h("h1", {}, "Kunde inte ladda övningarna"), h("p", {}, String(err)));
+    fill(
+      app,
+      h("h1", {}, "Kunde inte ladda övningarna"),
+      h("p", { id: "load-error" }, err.message),
+      h("p", {}, "Ladda om sidan (Ctrl+Shift+R / Cmd+Shift+R). Om felet finns kvar: öppna adressen ovan direkt – visar den en varnings- eller inloggningssida kan ett nätverksfilter (t.ex. på jobbet) blockera JSON-filer."),
+    );
+    document.documentElement.dataset.ready = "error";
     return;
   }
   window.addEventListener("hashchange", route);

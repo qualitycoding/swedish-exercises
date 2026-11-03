@@ -207,3 +207,13 @@ test("listening plays the script through speech synthesis", async () => {
   assert.ok(spoken.every((s) => !s.includes("[[")), "markup is not read aloud");
   await context.close();
 });
+
+test("a data file served as HTML gives a diagnostic naming the URL and status", async () => {
+  const { page, context } = await newPage();
+  await page.route("**/data/manifest.json", (r) => r.fulfill({ status: 404, contentType: "text/html", body: "<!DOCTYPE html><html>Not found</html>" }));
+  await page.goto(srv.url);
+  await page.waitForSelector("html[data-ready='error']");
+  const msg = await page.locator("#load-error").textContent();
+  assert.match(msg, /data\/manifest\.json: HTTP 404, text\/html/);
+  await context.close();
+});
