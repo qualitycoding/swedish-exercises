@@ -8,7 +8,7 @@ Scores are saved in the browser (`localStorage`), with export/import on the *Om*
 
 ## What's inside
 
-Six themes (news situation on 2 November 2026), four exercises each â€“ 24 exercises in total:
+Six launch themes (news situation on 2 November 2026), four exercises each, plus one new theme a week:
 
 | Theme | Topic |
 |---|---|
@@ -38,6 +38,11 @@ Each reading text ends with an invented coffee-room dialogue (clearly marked *pÃ
 
 - Text-to-speech uses `speechSynthesis`, which all mainstream browsers have; you need a Swedish voice installed in the device's text-to-speech settings. The listening page says which voice it found.
 - Speech recognition uses `SpeechRecognition`/`webkitSpeechRecognition`: Chrome, Edge and Safari (Safari 14.1+ on macOS, 14.5+ on iOS). Firefox has it only behind a flag, so there the speaking exercises use self-assessment. Chrome sends the audio to Google's speech service for recognition.
+
+## Weekly refresh
+
+A scheduled task adds one new theme every week from that week's Swedish news, following [REFRESH.md](REFRESH.md).
+New themes appear first on the start page; existing themes are never changed, so saved scores stay valid.
 
 ## Content and sources
 
