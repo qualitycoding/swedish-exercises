@@ -133,7 +133,9 @@ h3 { font-size: 1.05rem; margin: 1rem 0 0.4rem; }
   min-width: 12rem; max-width: 18rem; padding: 0.45rem 0.6rem; border-radius: 8px;
   background: var(--ink); color: var(--bg); font: 0.85rem/1.35 var(--sans);
 }
-.term:hover .pop, .term:focus .pop, .term.open .pop { display: block; }
+/* Shown only while explicitly open (click/tap/Enter); closed by a second click, a click elsewhere or Escape. */
+.term.open .pop { display: block; }
+.term:hover { background: var(--blue-soft); border-radius: 3px; }
 
 /* Exercise page */
 .ex-top { display: flex; justify-content: space-between; align-items: center; gap: 1rem; flex-wrap: wrap; }

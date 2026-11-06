@@ -113,6 +113,26 @@ function badgeFor(id) {
   return h("span", { class: cls, title: `Bästa ${fmtScore(s.best)}, senast ${fmtScore(s.last)}, ${s.attempts} försök` }, `${fmtScore(s.best)}/10`);
 }
 
+/** At most one explanation is open; tapping elsewhere, Escape or navigating closes it. */
+function closeTerms(except = null) {
+  document.querySelectorAll(".term.open").forEach((t) => {
+    if (t !== except) {
+      t.classList.remove("open");
+      t.setAttribute("aria-expanded", "false");
+    }
+  });
+}
+function toggleTerm(el) {
+  const open = !el.classList.contains("open");
+  closeTerms(el);
+  el.classList.toggle("open", open);
+  el.setAttribute("aria-expanded", String(open));
+}
+if (typeof document !== "undefined") {
+  document.addEventListener("click", () => closeTerms());
+  document.addEventListener("keydown", (e) => e.key === "Escape" && closeTerms());
+}
+
 /** Render marked-up text: terms get a dotted underline, a register tag and a tap/hover gloss. */
 function rich(text) {
   return parseMarkup(text).map((p) => {
@@ -125,7 +145,18 @@ function rich(text) {
       p.label ? h("span", { class: `tag ${p.label}`, text: LABEL_NAMES[p.label] || p.label }) : null,
       h("span", { class: "pop", role: "tooltip" }, p.gloss),
     );
-    el.addEventListener("click", () => el.classList.toggle("open"));
+    el.setAttribute("role", "button");
+    el.setAttribute("aria-expanded", "false");
+    el.addEventListener("click", (e) => {
+      e.stopPropagation();
+      toggleTerm(el);
+    });
+    el.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        toggleTerm(el);
+      }
+    });
     return el;
   });
 }

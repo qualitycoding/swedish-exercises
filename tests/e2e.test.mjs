@@ -217,3 +217,38 @@ test("a data file served as HTML gives a diagnostic naming the URL and status", 
   assert.match(msg, /data\/manifest\.json: HTTP 404, text\/html/);
   await context.close();
 });
+
+test("word explanations close on a second tap, a tap elsewhere and Escape; only one is open", async () => {
+  const { page, context } = await newPage();
+  await open(page, `/ovning/${themes[0].id}/lasa`);
+  const terms = page.locator("article .term");
+  const first = terms.nth(0);
+  const second = terms.last();
+  const pop = (t) => t.locator(".pop");
+  await first.click();
+  assert.ok(await pop(first).isVisible(), "opens on tap");
+  await first.click();
+  assert.ok(!(await pop(first).isVisible()), "second tap closes it although the term keeps focus");
+  await first.click();
+  await second.click();
+  assert.ok(!(await pop(first).isVisible()) && (await pop(second).isVisible()), "only one open");
+  await page.locator("h1").click();
+  assert.ok(!(await pop(second).isVisible()), "tap elsewhere closes");
+  await second.click();
+  await page.keyboard.press("Escape");
+  assert.ok(!(await pop(second).isVisible()), "Escape closes");
+  await context.close();
+});
+
+test("on a touch phone a tapped explanation does not stay open after tapping elsewhere", async () => {
+  const context = await browser.newContext({ hasTouch: true, isMobile: true, viewport: { width: 412, height: 915 } });
+  await context.addInitScript(SPEECH_MOCK);
+  const page = await context.newPage();
+  await open(page, `/ovning/${themes[0].id}/lasa`);
+  const term = page.locator("article .term").first();
+  await term.tap();
+  assert.ok(await term.locator(".pop").isVisible());
+  await page.locator("h1").tap();
+  assert.ok(!(await term.locator(".pop").isVisible()));
+  await context.close();
+});
