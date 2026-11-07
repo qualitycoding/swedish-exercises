@@ -1,0 +1,478 @@
+{
+  "id": "dalahasten-20261107",
+  "title": "Dalahästen får skydd i hela EU",
+  "short": "Dalahästen",
+  "dateLabel": "7 november 2026",
+  "level": "B1–B2",
+  "summary": "Dalahästen har blivit den första svenska produkten i EU:s nya skydd för hantverk. Namnet får bara användas av tillverkare som följer reglerna.",
+  "sources": [
+    {
+      "title": "PRV: Dalahästen får geografiskt skydd i EU (4 november 2026)",
+      "url": "https://www.prv.se/sv/om-oss/nyheter/dalahasten-far-geografiskt-skydd-i-eu/"
+    },
+    {
+      "title": "GP/TT: Dalahästen får skydd av EU (4 november 2026)",
+      "url": "https://www.gp.se/nyheter/sverige/dalahasten-far-skydd-av-eu.345f3f5c-cd53-5730-9152-6ee0a9181315"
+    },
+    {
+      "title": "TV4: Dalahästen får skydd av EU (4 november 2026)",
+      "url": "https://www.tv4.se/just-nu/7q5JV2YxYBBmx4nkoMbYtB/dalahasten-far-skydd-av-eu"
+    },
+    {
+      "title": "Siljan News: Dalahästen skyddas av EU (4 november 2026)",
+      "url": "https://www.siljannews.se/dalarna/dalahasten-skyddas-av-eu-positivt-for-taljaren-riktigt-bra/"
+    },
+    {
+      "title": "HurBra: Dalahästen får EU-skydd (5 november 2026)",
+      "url": "https://hurbra.se/dalahasten-eu-skydd-2026/"
+    },
+    {
+      "title": "Europeiska kommissionen: EU opens registration for craft and industrial product names (1 december 2025)",
+      "url": "https://cyprus.representation.ec.europa.eu/news/eu-opens-registration-craft-and-industrial-product-names-under-new-geographical-indication-scheme-2025-12-01_en"
+    },
+    {
+      "title": "Visit Dalarna: The world famous Dala horse from Dalarna",
+      "url": "https://visit-dalarna-ab-com.mynewsdesk.com/news/the-world-famous-dala-horse-from-dalarna-420886"
+    },
+    {
+      "title": "8 Sidor: Papporna firas (6 november 2026)",
+      "url": "https://8sidor.se/"
+    }
+  ],
+  "exercises": {
+    "lasa": {
+      "title": "En trähäst med EU-skydd",
+      "intro": "Läs texten. Tryck på de understrukna orden för förklaringar. Svara sedan på frågorna.",
+      "text": [
+        "Dalahästen är en av Sveriges mest kända symboler. Nu har den fått ett nytt skydd. EU:s [[immaterialrättsmyndighet|en myndighet som skyddar namn, varumärken och idéer]], EUIPO, har registrerat dalahästen som en [[skyddad geografisk beteckning|ett namn som bara får användas för varor från en viss plats]]. Det meddelade Patent- och registreringsverket, PRV, onsdagen den 4 november.",
+        "Dalahästen är den första svenska produkten i EU:s nya system för hantverk och industriprodukter. Systemet öppnade den 1 december 2025. Tidigare kunde bara mat och dryck få den här sortens skydd.",
+        "Bakom ansökan står två företag i Nusnäs utanför Mora: Grannas och Nils Olsson Dalahästar. Men de får inte [[ensamrätt|rätten att vara den enda som får använda något]] på namnet. Alla tillverkare som följer reglerna i en [[produktspecifikation|ett dokument som beskriver hur och var en vara ska göras]] får kalla sina hästar dalahästar. Minst ett steg i tillverkningen måste ske i området.",
+        "Skyddet gäller i hela EU, även när hästar säljs på nätet. Det gör det möjligt att stoppa den som använder namnet utan lov, eller som [[vilseleder|lurar, ger en falsk bild]] kunderna om var en vara kommer ifrån.",
+        "Monika Nowicka är jurist på PRV och hjälpte företagen med ansökan. Hon påpekar att många först tänker på dalahästen och köttbullar när de tänker på Sverige. Enligt henne handlar skyddet om att [[värna|skydda och ta hand om]] en tradition och ett kunnande som förs vidare mellan generationer.",
+        "Traditionen är gammal. Redan på 1700-talet [[täljde|skar ut med kniv]] man hästar i trä runt Mora, och under 1800-talet började man måla dem. Det stora [[genombrottet|när något plötsligt blir känt]] kom på världsutställningen i New York 1939. Hittills har EU-länderna skickat in 106 ansökningar till det nya systemet, och 75 av dem har registrerats.",
+        "Så kan det låta i fikarummet (påhittat exempel): – Har du hört? Dalahästen har fått EU-skydd. – [[Najs|bra, trevligt (från engelskans nice)|slang]]! Min [[farsa|pappa|vardagligt]] köpte en [[fejk|något falskt, en oäkta kopia|slang]] på nätet en gång. – [[Typiskt|det var väntat, så brukar det bli|vardagligt]]. – Den här gången köper jag en äkta till farsdag på söndag. Den är [[dyr som attan|väldigt dyr|vardagligt]], men den är [[värd varenda krona|så bra att den är värd priset|idiom]]."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Vem registrerade dalahästen som skyddad geografisk beteckning?",
+          "options": [
+            "Sveriges regering",
+            "EU:s immaterialrättsmyndighet EUIPO",
+            "Riksdagen",
+            "Dalarnas museum"
+          ],
+          "answer": 1,
+          "explain": "Det var EUIPO, EU:s immaterialrättsmyndighet. PRV berättade om beskedet."
+        },
+        {
+          "type": "mc",
+          "q": "Vad är nytt med EU:s system?",
+          "options": [
+            "Det gäller bara vin",
+            "Det gäller bara i Sverige",
+            "Det skyddar nu också hantverk och industriprodukter",
+            "Det skyddar bara leksaker"
+          ],
+          "answer": 2,
+          "explain": "Tidigare kunde bara mat och dryck få skyddet."
+        },
+        {
+          "type": "mc",
+          "q": "Var ligger de två företagen som ansökte?",
+          "options": [
+            "I Stockholm",
+            "I Nusnäs utanför Mora",
+            "I Göteborg",
+            "I Bryssel"
+          ],
+          "answer": 1,
+          "explain": "Grannas och Nils Olsson Dalahästar finns i Nusnäs utanför Mora."
+        },
+        {
+          "type": "tf",
+          "q": "De två företagen får ensamrätt på namnet dalahäst.",
+          "answer": false,
+          "explain": "Alla tillverkare som följer reglerna får använda namnet."
+        },
+        {
+          "type": "tf",
+          "q": "Skyddet gäller också när dalahästar säljs på nätet.",
+          "answer": true,
+          "explain": "Skyddet gäller i hela EU, även på nätet."
+        },
+        {
+          "type": "mc",
+          "q": "Vad säger Monika Nowicka att många först tänker på när de tänker på Sverige?",
+          "options": [
+            "Volvo och Ikea",
+            "Dalahästen och köttbullar",
+            "Snö och älgar",
+            "Midsommar och jordgubbar"
+          ],
+          "answer": 1,
+          "explain": "Hon nämner dalahästen och köttbullar."
+        },
+        {
+          "type": "mc",
+          "q": "När fick dalahästen sitt stora genombrott?",
+          "options": [
+            "På 1700-talet",
+            "När EU bildades",
+            "På världsutställningen i New York 1939",
+            "I november 2026"
+          ],
+          "answer": 2,
+          "explain": "Genombrottet kom i New York 1939."
+        },
+        {
+          "type": "tf",
+          "q": "Alla ansökningar i det nya systemet har redan registrerats.",
+          "answer": false,
+          "explain": "75 av 106 ansökningar har registrerats hittills."
+        },
+        {
+          "type": "mc",
+          "q": "I fikarummet: ”Min farsa köpte en fejk.” Vad är en ”fejk”?",
+          "options": [
+            "En dyr present",
+            "Något falskt, en oäkta kopia",
+            "En gammal häst",
+            "En fin målning"
+          ],
+          "answer": 1,
+          "explain": "”Fejk” är slang för något falskt."
+        },
+        {
+          "type": "mc",
+          "q": "Vad betyder ”värd varenda krona”?",
+          "options": [
+            "Så bra att den är värd priset",
+            "Väldigt billig",
+            "Gjord av mynt",
+            "Svår att hitta"
+          ],
+          "answer": 0,
+          "explain": "Ett idiom: något är värt det man betalar."
+        }
+      ]
+    },
+    "lyssna": {
+      "title": "Kulturkollen: dalahästen",
+      "intro": "Lyssna på kulturinslaget. Spela gärna upp en del i taget. Inslaget är skrivet för övningen och läses upp av webbläsarens röst.",
+      "vocab": [
+        "[[tälja|skära ut något i trä med en kniv]]",
+        "[[nätbutik|en affär på internet]]",
+        "[[tillverkare|någon som gör en vara]]"
+      ],
+      "script": [
+        "Hej och välkommen till Kulturkollen! I dag pratar vi om en liten trähäst med stor betydelse.",
+        "Dalahästen har fått en skyddad geografisk beteckning i EU. Det betyder att namnet dalahäst skyddas i alla EU-länder, även i nätbutiker.",
+        "Två företag i Nusnäs utanför Mora låg bakom ansökan. Men de äger inte namnet. Alla tillverkare som följer reglerna får använda det, och minst ett steg i tillverkningen måste ske i området.",
+        "Hur gammal är då traditionen? Redan på sjuttonhundratalet täljde man hästar i trä runt Mora. Under artonhundratalet började man måla dem. Och år nittonhundratrettionio blev dalahästen världskänd på en stor utställning i New York.",
+        "Dalahästen är den första svenska produkten i EU:s nya system för hantverk. Tidigare var skyddet bara till för mat och dryck.",
+        "Ett tips till dig som ska köpa en dalahäst: kolla vem som har gjort den, särskilt i nätbutiker som du inte känner till. Det var allt för i dag. Hej då!"
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "q": "Vad heter programmet?",
+          "options": [
+            "Kulturkollen",
+            "Pengakollen",
+            "Ekot",
+            "Kulturnytt"
+          ],
+          "answer": 0,
+          "explain": "Programmet heter Kulturkollen."
+        },
+        {
+          "type": "tf",
+          "q": "Namnet dalahäst skyddas bara i Sverige.",
+          "answer": false,
+          "explain": "Det skyddas i alla EU-länder."
+        },
+        {
+          "type": "mc",
+          "q": "Var ligger företagen som låg bakom ansökan?",
+          "options": [
+            "I Malmö",
+            "I Nusnäs utanför Mora",
+            "I New York",
+            "I Uppsala"
+          ],
+          "answer": 1,
+          "explain": "I Nusnäs utanför Mora."
+        },
+        {
+          "type": "tf",
+          "q": "De två företagen äger namnet dalahäst.",
+          "answer": false,
+          "explain": "De äger inte namnet. Alla som följer reglerna får använda det."
+        },
+        {
+          "type": "mc",
+          "q": "När började man tälja hästar i trä runt Mora?",
+          "options": [
+            "På sjuttonhundratalet",
+            "På nittonhundratalet",
+            "År tvåtusen",
+            "Förra året"
+          ],
+          "answer": 0,
+          "explain": "Redan på sjuttonhundratalet."
+        },
+        {
+          "type": "mc",
+          "q": "Vad hände i New York?",
+          "options": [
+            "Dalahästen förbjöds",
+            "Dalahästen blev världskänd på en stor utställning",
+            "Man började måla hästarna",
+            "EU-skyddet beslutades"
+          ],
+          "answer": 1,
+          "explain": "Dalahästen blev världskänd på en utställning i New York."
+        },
+        {
+          "type": "tf",
+          "q": "Tidigare var skyddet bara till för mat och dryck.",
+          "answer": true,
+          "explain": "Det nya systemet gäller hantverk."
+        },
+        {
+          "type": "mc",
+          "q": "Vilket tips ger inslaget?",
+          "options": [
+            "Köp alltid den billigaste hästen",
+            "Kolla vem som har gjort hästen",
+            "Måla hästen själv",
+            "Köp bara hästar på sommaren"
+          ],
+          "answer": 1,
+          "explain": "Kolla vem som har gjort den, särskilt i okända nätbutiker."
+        },
+        {
+          "type": "dictation",
+          "text": "Dalahästen har fått skydd i hela EU."
+        },
+        {
+          "type": "dictation",
+          "text": "Kolla vem som har gjort hästen."
+        }
+      ]
+    },
+    "skriva": {
+      "title": "Skriv om dalahästen",
+      "intro": "Böj orden, bygg meningar och översätt. Tänk på ordföljden och adjektivens former.",
+      "tasks": [
+        {
+          "type": "gap",
+          "q": "Dalahästen är en av Sveriges mest ___ (känd) symboler.",
+          "hint": "Plural efter ”mest”.",
+          "accept": [
+            "kända"
+          ],
+          "explain": "känd – kända (plural): de mest kända symbolerna"
+        },
+        {
+          "type": "gap",
+          "q": "EU har ___ (registrera) dalahästen som en skyddad beteckning.",
+          "hint": "Supinum.",
+          "accept": [
+            "registrerat"
+          ],
+          "explain": "registrera – registrerade – har registrerat"
+        },
+        {
+          "type": "gap",
+          "q": "På 1700-talet ___ (tälja) man hästar i trä.",
+          "hint": "Preteritum.",
+          "accept": [
+            "täljde"
+          ],
+          "explain": "tälja – täljde – har täljt"
+        },
+        {
+          "type": "gap",
+          "q": "Det här är den ___ (gammal) dalahästen i butiken.",
+          "hint": "Superlativ, bestämd form.",
+          "accept": [
+            "äldsta"
+          ],
+          "explain": "gammal – äldre – äldst – den äldsta"
+        },
+        {
+          "type": "order",
+          "en": "Now the protection applies in the whole EU.",
+          "accept": [
+            "Nu gäller skyddet i hela EU."
+          ],
+          "explain": "Tidsord först → verbet på plats två."
+        },
+        {
+          "type": "order",
+          "en": "No one gets exclusive rights to the name.",
+          "accept": [
+            "Ingen får ensamrätt på namnet."
+          ],
+          "explain": ""
+        },
+        {
+          "type": "order",
+          "en": "My dad bought a Dala horse online.",
+          "accept": [
+            "Min pappa köpte en dalahäst på nätet."
+          ],
+          "explain": "Subjekt – verb – objekt – plats."
+        },
+        {
+          "type": "translate",
+          "en": "The Dala horse is a famous symbol.",
+          "keywords": [
+            [
+              "dalahäst"
+            ],
+            [
+              "känd",
+              "berömd"
+            ],
+            [
+              "symbol"
+            ]
+          ],
+          "model": "Dalahästen är en känd symbol."
+        },
+        {
+          "type": "translate",
+          "en": "The name is protected in the whole EU.",
+          "keywords": [
+            [
+              "namn"
+            ],
+            [
+              "skydd"
+            ],
+            [
+              "hela"
+            ],
+            [
+              "eu"
+            ]
+          ],
+          "model": "Namnet är skyddat i hela EU."
+        },
+        {
+          "type": "translate",
+          "en": "The horse was made in Dalarna.",
+          "keywords": [
+            [
+              "häst"
+            ],
+            [
+              "gjord",
+              "tillverk"
+            ],
+            [
+              "dalarna"
+            ]
+          ],
+          "model": "Hästen var gjord i Dalarna."
+        }
+      ],
+      "free": {
+        "prompt": "Skriv ett sms till en vän (50–80 ord). Du ska köpa en present till farsdag eller till någon annan. Berätta vad du vill köpa och varför en äkta, handgjord sak är värd pengarna – eller inte.",
+        "words": "50–80",
+        "checklist": [
+          "Använd minst en superlativ (bäst, finast, äldst …).",
+          "Använd ”eftersom” eller ”men” för att förklara eller jämföra.",
+          "Testa ett slangord, t.ex. [[najs|bra, trevligt|slang]] – det passar i ett sms till en vän men inte i ett mejl till chefen.",
+          "Avsluta med en fråga till din vän."
+        ],
+        "model": "Hej! På söndag är det farsdag och jag tänker köpa en dalahäst till pappa. Han älskar saker från Dalarna. Den äkta är dyr som attan, men den är handgjord och värd varenda krona. Förra året köpte jag en billig fejk på nätet och den gick sönder direkt. Najs att namnet är skyddat nu, eftersom man vet vad man får. Vad ska du ge din pappa?"
+      }
+    },
+    "tala": {
+      "title": "Prata om dalahästen",
+      "intro": "Läs meningarna högt och svara på frågorna med hela meningar.",
+      "tasks": [
+        {
+          "type": "read",
+          "text": "Dalahästen är en svensk symbol."
+        },
+        {
+          "type": "read",
+          "text": "Hästen är gjord av trä."
+        },
+        {
+          "type": "read",
+          "text": "Namnet skyddas i hela EU."
+        },
+        {
+          "type": "read",
+          "text": "Två företag låg bakom ansökan."
+        },
+        {
+          "type": "read",
+          "text": "Min farsa köpte en fejk på nätet."
+        },
+        {
+          "type": "read",
+          "text": "Den är värd varenda krona."
+        },
+        {
+          "type": "respond",
+          "q": "Vad har dalahästen fått av EU?",
+          "hint": "Svara med ”Den har fått …”.",
+          "keywords": [
+            [
+              "skydd",
+              "beteckning"
+            ]
+          ],
+          "model": "Den har fått ett skydd av EU."
+        },
+        {
+          "type": "respond",
+          "q": "Var görs dalahästar?",
+          "hint": "Nämn ett landskap eller en ort.",
+          "keywords": [
+            [
+              "dalarna",
+              "nusnäs",
+              "mora"
+            ]
+          ],
+          "model": "Dalahästar görs i Dalarna."
+        },
+        {
+          "type": "respond",
+          "q": "Vad tänker du på när du tänker på Sverige?",
+          "hint": "Börja med ”Jag tänker på …”.",
+          "keywords": [
+            [
+              "jag"
+            ],
+            [
+              "tänker"
+            ]
+          ],
+          "model": "Jag tänker på dalahästar och köttbullar."
+        },
+        {
+          "type": "respond",
+          "q": "Vad betyder ordet fejk?",
+          "hint": "Förklara med ”att något är …”.",
+          "keywords": [
+            [
+              "falsk",
+              "oäkt",
+              "kopia"
+            ]
+          ],
+          "model": "Det betyder att något är falskt."
+        }
+      ]
+    }
+  }
+}
