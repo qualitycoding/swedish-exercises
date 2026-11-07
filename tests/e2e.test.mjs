@@ -252,3 +252,15 @@ test("on a touch phone a tapped explanation does not stay open after tapping els
   assert.ok(!(await term.locator(".pop").isVisible()));
   await context.close();
 });
+
+test("no page shows stringified objects, undefined or null", async () => {
+  const { page, context } = await newPage();
+  const hashes = ["/", "/om", ...themes.flatMap((t) => KINDS.map((k) => `/ovning/${t.id}/${k}`))];
+  for (const hash of hashes) {
+    await page.goto(`${srv.url}#${hash}`);
+    await page.waitForFunction((h) => document.documentElement.dataset.route === h, `#${hash}`);
+    const text = await page.locator("#app").evaluate((el) => el.textContent);
+    assert.doesNotMatch(text, /\[object |\bundefined\b|(^|[^a-zåäö])null([^a-zåäö]|$)/i, `${hash} shows a stringified value`);
+  }
+  await context.close();
+});
